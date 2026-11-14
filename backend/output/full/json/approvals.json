@@ -1,0 +1,3502 @@
+[
+  {
+    "approval_id": "APR-000001",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000001",
+    "employee_id": "EMP-000001",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000002",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000002",
+    "employee_id": "EMP-000002",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000003",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000003",
+    "employee_id": "EMP-000003",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000004",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000004",
+    "employee_id": "EMP-000004",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000005",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000005",
+    "employee_id": "EMP-000005",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000006",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000006",
+    "employee_id": "EMP-000006",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000007",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000007",
+    "employee_id": "EMP-000007",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000008",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000008",
+    "employee_id": "EMP-000008",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000009",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000009",
+    "employee_id": "EMP-000009",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000010",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000010",
+    "employee_id": "EMP-000010",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000011",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000011",
+    "employee_id": "EMP-000011",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000012",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000012",
+    "employee_id": "EMP-000012",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000013",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000013",
+    "employee_id": "EMP-000013",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000014",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000014",
+    "employee_id": "EMP-000014",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000015",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000015",
+    "employee_id": "EMP-000015",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000016",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000016",
+    "employee_id": "EMP-000016",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000017",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000017",
+    "employee_id": "EMP-000017",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000018",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000018",
+    "employee_id": "EMP-000018",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000019",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000019",
+    "employee_id": "EMP-000019",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000020",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000020",
+    "employee_id": "EMP-000020",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000021",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000021",
+    "employee_id": "EMP-000021",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000022",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000022",
+    "employee_id": "EMP-000022",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000023",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000023",
+    "employee_id": "EMP-000023",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000024",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000024",
+    "employee_id": "EMP-000024",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000025",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000025",
+    "employee_id": "EMP-000025",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000026",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000026",
+    "employee_id": "EMP-000026",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000027",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000027",
+    "employee_id": "EMP-000027",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000028",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000028",
+    "employee_id": "EMP-000028",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000029",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000029",
+    "employee_id": "EMP-000029",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000030",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000030",
+    "employee_id": "EMP-000030",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000031",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000031",
+    "employee_id": "EMP-000031",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000032",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000032",
+    "employee_id": "EMP-000032",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000033",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000033",
+    "employee_id": "EMP-000033",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000034",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000034",
+    "employee_id": "EMP-000034",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000035",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000035",
+    "employee_id": "EMP-000035",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000036",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000036",
+    "employee_id": "EMP-000036",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000037",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000037",
+    "employee_id": "EMP-000037",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000038",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000038",
+    "employee_id": "EMP-000038",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000039",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000039",
+    "employee_id": "EMP-000039",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000040",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000040",
+    "employee_id": "EMP-000040",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000041",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000041",
+    "employee_id": "EMP-000041",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000042",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000042",
+    "employee_id": "EMP-000042",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000043",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000043",
+    "employee_id": "EMP-000043",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000044",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000044",
+    "employee_id": "EMP-000044",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000045",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000045",
+    "employee_id": "EMP-000045",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000046",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000046",
+    "employee_id": "EMP-000046",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000047",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000047",
+    "employee_id": "EMP-000047",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000048",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000048",
+    "employee_id": "EMP-000048",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000049",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000049",
+    "employee_id": "EMP-000049",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000050",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000050",
+    "employee_id": "EMP-000050",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000051",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000001",
+    "employee_id": "EMP-000051",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000052",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000002",
+    "employee_id": "EMP-000052",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000053",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000003",
+    "employee_id": "EMP-000053",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000054",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000004",
+    "employee_id": "EMP-000054",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000055",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000005",
+    "employee_id": "EMP-000055",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000056",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000006",
+    "employee_id": "EMP-000056",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000057",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000007",
+    "employee_id": "EMP-000057",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000058",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000008",
+    "employee_id": "EMP-000058",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000059",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000009",
+    "employee_id": "EMP-000059",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000060",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000010",
+    "employee_id": "EMP-000060",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000061",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000011",
+    "employee_id": "EMP-000061",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000062",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000012",
+    "employee_id": "EMP-000062",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000063",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000013",
+    "employee_id": "EMP-000063",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000064",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000014",
+    "employee_id": "EMP-000064",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000065",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000015",
+    "employee_id": "EMP-000065",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000066",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000016",
+    "employee_id": "EMP-000066",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000067",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000017",
+    "employee_id": "EMP-000067",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000068",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000018",
+    "employee_id": "EMP-000068",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000069",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000019",
+    "employee_id": "EMP-000069",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000070",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000020",
+    "employee_id": "EMP-000070",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000071",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000021",
+    "employee_id": "EMP-000071",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000072",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000022",
+    "employee_id": "EMP-000072",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000073",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000023",
+    "employee_id": "EMP-000073",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000074",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000024",
+    "employee_id": "EMP-000074",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000075",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000025",
+    "employee_id": "EMP-000075",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000076",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000026",
+    "employee_id": "EMP-000076",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000077",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000027",
+    "employee_id": "EMP-000077",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000078",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000028",
+    "employee_id": "EMP-000078",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000079",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000029",
+    "employee_id": "EMP-000079",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000080",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000030",
+    "employee_id": "EMP-000080",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000081",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000031",
+    "employee_id": "EMP-000081",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000082",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000032",
+    "employee_id": "EMP-000082",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000083",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000033",
+    "employee_id": "EMP-000083",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000084",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000034",
+    "employee_id": "EMP-000084",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000085",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000035",
+    "employee_id": "EMP-000085",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000086",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000036",
+    "employee_id": "EMP-000086",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000087",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000037",
+    "employee_id": "EMP-000087",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000088",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000038",
+    "employee_id": "EMP-000088",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000089",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000039",
+    "employee_id": "EMP-000089",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000090",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000040",
+    "employee_id": "EMP-000090",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000091",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000041",
+    "employee_id": "EMP-000091",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000092",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000042",
+    "employee_id": "EMP-000092",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000093",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000043",
+    "employee_id": "EMP-000093",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000094",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000044",
+    "employee_id": "EMP-000094",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000095",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000045",
+    "employee_id": "EMP-000095",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000096",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000046",
+    "employee_id": "EMP-000096",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000097",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000047",
+    "employee_id": "EMP-000097",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000098",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000048",
+    "employee_id": "EMP-000098",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000099",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000049",
+    "employee_id": "EMP-000099",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000100",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000050",
+    "employee_id": "EMP-000100",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000101",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000001",
+    "employee_id": "EMP-000101",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000102",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000002",
+    "employee_id": "EMP-000102",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000103",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000003",
+    "employee_id": "EMP-000103",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000104",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000004",
+    "employee_id": "EMP-000104",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000105",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000005",
+    "employee_id": "EMP-000105",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000106",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000006",
+    "employee_id": "EMP-000106",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000107",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000007",
+    "employee_id": "EMP-000107",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000108",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000008",
+    "employee_id": "EMP-000108",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000109",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000009",
+    "employee_id": "EMP-000109",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000110",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000010",
+    "employee_id": "EMP-000110",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000111",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000011",
+    "employee_id": "EMP-000111",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000112",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000012",
+    "employee_id": "EMP-000112",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000113",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000013",
+    "employee_id": "EMP-000113",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000114",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000014",
+    "employee_id": "EMP-000114",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000115",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000015",
+    "employee_id": "EMP-000115",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000116",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000016",
+    "employee_id": "EMP-000116",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000117",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000017",
+    "employee_id": "EMP-000117",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000118",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000018",
+    "employee_id": "EMP-000118",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000119",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000019",
+    "employee_id": "EMP-000119",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000120",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000020",
+    "employee_id": "EMP-000120",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000121",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000021",
+    "employee_id": "EMP-000121",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000122",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000022",
+    "employee_id": "EMP-000122",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000123",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000023",
+    "employee_id": "EMP-000123",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000124",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000024",
+    "employee_id": "EMP-000124",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000125",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000025",
+    "employee_id": "EMP-000125",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000126",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000026",
+    "employee_id": "EMP-000126",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000127",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000027",
+    "employee_id": "EMP-000127",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000128",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000028",
+    "employee_id": "EMP-000128",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000129",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000029",
+    "employee_id": "EMP-000129",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000130",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000030",
+    "employee_id": "EMP-000130",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000131",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000031",
+    "employee_id": "EMP-000131",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000132",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000032",
+    "employee_id": "EMP-000132",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000133",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000033",
+    "employee_id": "EMP-000133",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000134",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000034",
+    "employee_id": "EMP-000134",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000135",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000035",
+    "employee_id": "EMP-000135",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000136",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000036",
+    "employee_id": "EMP-000136",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000137",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000037",
+    "employee_id": "EMP-000137",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000138",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000038",
+    "employee_id": "EMP-000138",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000139",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000039",
+    "employee_id": "EMP-000139",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000140",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000040",
+    "employee_id": "EMP-000140",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000141",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000041",
+    "employee_id": "EMP-000141",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000142",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000042",
+    "employee_id": "EMP-000142",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000143",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000043",
+    "employee_id": "EMP-000143",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000144",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000044",
+    "employee_id": "EMP-000144",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000145",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000045",
+    "employee_id": "EMP-000145",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000146",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000046",
+    "employee_id": "EMP-000146",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000147",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000047",
+    "employee_id": "EMP-000147",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000148",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000048",
+    "employee_id": "EMP-000148",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000149",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000049",
+    "employee_id": "EMP-000149",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000150",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000050",
+    "employee_id": "EMP-000150",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000151",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000001",
+    "employee_id": "EMP-000151",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000152",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000002",
+    "employee_id": "EMP-000152",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000153",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000003",
+    "employee_id": "EMP-000153",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000154",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000004",
+    "employee_id": "EMP-000154",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000155",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000005",
+    "employee_id": "EMP-000155",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000156",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000006",
+    "employee_id": "EMP-000156",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000157",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000007",
+    "employee_id": "EMP-000157",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000158",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000008",
+    "employee_id": "EMP-000158",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000159",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000009",
+    "employee_id": "EMP-000159",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000160",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000010",
+    "employee_id": "EMP-000160",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000161",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000011",
+    "employee_id": "EMP-000161",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000162",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000012",
+    "employee_id": "EMP-000162",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000163",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000013",
+    "employee_id": "EMP-000163",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000164",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000014",
+    "employee_id": "EMP-000164",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000165",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000015",
+    "employee_id": "EMP-000165",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000166",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000016",
+    "employee_id": "EMP-000166",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000167",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000017",
+    "employee_id": "EMP-000167",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000168",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000018",
+    "employee_id": "EMP-000168",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000169",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000019",
+    "employee_id": "EMP-000169",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000170",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000020",
+    "employee_id": "EMP-000170",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000171",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000021",
+    "employee_id": "EMP-000171",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000172",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000022",
+    "employee_id": "EMP-000172",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000173",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000023",
+    "employee_id": "EMP-000173",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000174",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000024",
+    "employee_id": "EMP-000174",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000175",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000025",
+    "employee_id": "EMP-000175",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000176",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000026",
+    "employee_id": "EMP-000176",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000177",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000027",
+    "employee_id": "EMP-000177",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000178",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000028",
+    "employee_id": "EMP-000178",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000179",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000029",
+    "employee_id": "EMP-000179",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000180",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000030",
+    "employee_id": "EMP-000180",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000181",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000031",
+    "employee_id": "EMP-000181",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000182",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000032",
+    "employee_id": "EMP-000182",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000183",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000033",
+    "employee_id": "EMP-000183",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000184",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000034",
+    "employee_id": "EMP-000184",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000185",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000035",
+    "employee_id": "EMP-000185",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000186",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000036",
+    "employee_id": "EMP-000186",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000187",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000037",
+    "employee_id": "EMP-000187",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000188",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000038",
+    "employee_id": "EMP-000188",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000189",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000039",
+    "employee_id": "EMP-000189",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000190",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000040",
+    "employee_id": "EMP-000190",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000191",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000041",
+    "employee_id": "EMP-000191",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000192",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000042",
+    "employee_id": "EMP-000192",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000193",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000043",
+    "employee_id": "EMP-000193",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000194",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000044",
+    "employee_id": "EMP-000194",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000195",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000045",
+    "employee_id": "EMP-000195",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000196",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000046",
+    "employee_id": "EMP-000196",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000197",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000047",
+    "employee_id": "EMP-000197",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000198",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000048",
+    "employee_id": "EMP-000198",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000199",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000049",
+    "employee_id": "EMP-000199",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000200",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000050",
+    "employee_id": "EMP-000200",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000201",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000001",
+    "employee_id": "EMP-000201",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000202",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000002",
+    "employee_id": "EMP-000202",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000203",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000003",
+    "employee_id": "EMP-000203",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000204",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000004",
+    "employee_id": "EMP-000204",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000205",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000005",
+    "employee_id": "EMP-000205",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000206",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000006",
+    "employee_id": "EMP-000206",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000207",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000007",
+    "employee_id": "EMP-000207",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000208",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000008",
+    "employee_id": "EMP-000208",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000209",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000009",
+    "employee_id": "EMP-000209",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000210",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000010",
+    "employee_id": "EMP-000210",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000211",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000011",
+    "employee_id": "EMP-000211",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000212",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000012",
+    "employee_id": "EMP-000212",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000213",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000013",
+    "employee_id": "EMP-000213",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000214",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000014",
+    "employee_id": "EMP-000214",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000215",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000015",
+    "employee_id": "EMP-000215",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000216",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000016",
+    "employee_id": "EMP-000216",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000217",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000017",
+    "employee_id": "EMP-000217",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000218",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000018",
+    "employee_id": "EMP-000218",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000219",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000019",
+    "employee_id": "EMP-000219",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000220",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000020",
+    "employee_id": "EMP-000220",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000221",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000021",
+    "employee_id": "EMP-000221",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000222",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000022",
+    "employee_id": "EMP-000222",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000223",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000023",
+    "employee_id": "EMP-000223",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000224",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000024",
+    "employee_id": "EMP-000224",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000225",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000025",
+    "employee_id": "EMP-000225",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000226",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000026",
+    "employee_id": "EMP-000226",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000227",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000027",
+    "employee_id": "EMP-000227",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000228",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000028",
+    "employee_id": "EMP-000228",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000229",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000029",
+    "employee_id": "EMP-000229",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000230",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000030",
+    "employee_id": "EMP-000230",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000231",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000031",
+    "employee_id": "EMP-000231",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000232",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000032",
+    "employee_id": "EMP-000232",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000233",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000033",
+    "employee_id": "EMP-000233",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000234",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000034",
+    "employee_id": "EMP-000234",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000235",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000035",
+    "employee_id": "EMP-000235",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000236",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000036",
+    "employee_id": "EMP-000236",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000237",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000037",
+    "employee_id": "EMP-000237",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000238",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000038",
+    "employee_id": "EMP-000238",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000239",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000039",
+    "employee_id": "EMP-000239",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000240",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000040",
+    "employee_id": "EMP-000240",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000241",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000041",
+    "employee_id": "EMP-000241",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000242",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000042",
+    "employee_id": "EMP-000242",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000243",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000043",
+    "employee_id": "EMP-000243",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000244",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000044",
+    "employee_id": "EMP-000244",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000245",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000045",
+    "employee_id": "EMP-000245",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000246",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000046",
+    "employee_id": "EMP-000246",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000247",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000047",
+    "employee_id": "EMP-000247",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000248",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000048",
+    "employee_id": "EMP-000248",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000249",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000049",
+    "employee_id": "EMP-000249",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000250",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000050",
+    "employee_id": "EMP-000250",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000251",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000001",
+    "employee_id": "EMP-000251",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000252",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000002",
+    "employee_id": "EMP-000252",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000253",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000003",
+    "employee_id": "EMP-000253",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000254",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000004",
+    "employee_id": "EMP-000254",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000255",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000005",
+    "employee_id": "EMP-000255",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000256",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000006",
+    "employee_id": "EMP-000256",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000257",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000007",
+    "employee_id": "EMP-000257",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000258",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000008",
+    "employee_id": "EMP-000258",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000259",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000009",
+    "employee_id": "EMP-000259",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000260",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000010",
+    "employee_id": "EMP-000260",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000261",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000011",
+    "employee_id": "EMP-000261",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000262",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000012",
+    "employee_id": "EMP-000262",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000263",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000013",
+    "employee_id": "EMP-000263",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000264",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000014",
+    "employee_id": "EMP-000264",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000265",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000015",
+    "employee_id": "EMP-000265",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000266",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000016",
+    "employee_id": "EMP-000266",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000267",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000017",
+    "employee_id": "EMP-000267",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000268",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000018",
+    "employee_id": "EMP-000268",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000269",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000019",
+    "employee_id": "EMP-000269",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000270",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000020",
+    "employee_id": "EMP-000270",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000271",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000021",
+    "employee_id": "EMP-000271",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000272",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000022",
+    "employee_id": "EMP-000272",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000273",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000023",
+    "employee_id": "EMP-000273",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000274",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000024",
+    "employee_id": "EMP-000274",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000275",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000025",
+    "employee_id": "EMP-000275",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000276",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000026",
+    "employee_id": "EMP-000276",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000277",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000027",
+    "employee_id": "EMP-000277",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000278",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000028",
+    "employee_id": "EMP-000278",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000279",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000029",
+    "employee_id": "EMP-000279",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000280",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000030",
+    "employee_id": "EMP-000280",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000281",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000031",
+    "employee_id": "EMP-000281",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000282",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000032",
+    "employee_id": "EMP-000282",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000283",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000033",
+    "employee_id": "EMP-000283",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000284",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000034",
+    "employee_id": "EMP-000284",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000285",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000035",
+    "employee_id": "EMP-000285",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000286",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000036",
+    "employee_id": "EMP-000286",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000287",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000037",
+    "employee_id": "EMP-000287",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000288",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000038",
+    "employee_id": "EMP-000288",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000289",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000039",
+    "employee_id": "EMP-000289",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000290",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000040",
+    "employee_id": "EMP-000290",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000291",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000041",
+    "employee_id": "EMP-000291",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000292",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000042",
+    "employee_id": "EMP-000292",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000293",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000043",
+    "employee_id": "EMP-000293",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000294",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000044",
+    "employee_id": "EMP-000294",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000295",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000045",
+    "employee_id": "EMP-000295",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000296",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000046",
+    "employee_id": "EMP-000296",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000297",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000047",
+    "employee_id": "EMP-000297",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000298",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000048",
+    "employee_id": "EMP-000298",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000299",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000049",
+    "employee_id": "EMP-000299",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000300",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000050",
+    "employee_id": "EMP-000300",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000301",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000001",
+    "employee_id": "EMP-000301",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000302",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000002",
+    "employee_id": "EMP-000302",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000303",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000003",
+    "employee_id": "EMP-000303",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000304",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000004",
+    "employee_id": "EMP-000304",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000305",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000005",
+    "employee_id": "EMP-000305",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000306",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000006",
+    "employee_id": "EMP-000306",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000307",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000007",
+    "employee_id": "EMP-000307",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000308",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000008",
+    "employee_id": "EMP-000308",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000309",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000009",
+    "employee_id": "EMP-000309",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000310",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000010",
+    "employee_id": "EMP-000310",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000311",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000011",
+    "employee_id": "EMP-000311",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000312",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000012",
+    "employee_id": "EMP-000312",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000313",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000013",
+    "employee_id": "EMP-000313",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000314",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000014",
+    "employee_id": "EMP-000314",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000315",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000015",
+    "employee_id": "EMP-000315",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000316",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000016",
+    "employee_id": "EMP-000316",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000317",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000017",
+    "employee_id": "EMP-000317",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000318",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000018",
+    "employee_id": "EMP-000318",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000319",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000019",
+    "employee_id": "EMP-000319",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000320",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000020",
+    "employee_id": "EMP-000320",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000321",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000021",
+    "employee_id": "EMP-000321",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000322",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000022",
+    "employee_id": "EMP-000322",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000323",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000023",
+    "employee_id": "EMP-000323",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000324",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000024",
+    "employee_id": "EMP-000324",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000325",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000025",
+    "employee_id": "EMP-000325",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000326",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000026",
+    "employee_id": "EMP-000326",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000327",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000027",
+    "employee_id": "EMP-000327",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000328",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000028",
+    "employee_id": "EMP-000328",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000329",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000029",
+    "employee_id": "EMP-000329",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000330",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000030",
+    "employee_id": "EMP-000330",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000331",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000031",
+    "employee_id": "EMP-000331",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000332",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000032",
+    "employee_id": "EMP-000332",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000333",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000033",
+    "employee_id": "EMP-000333",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000334",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000034",
+    "employee_id": "EMP-000334",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000335",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000035",
+    "employee_id": "EMP-000335",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000336",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000036",
+    "employee_id": "EMP-000336",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000337",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000037",
+    "employee_id": "EMP-000337",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000338",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000038",
+    "employee_id": "EMP-000338",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000339",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000039",
+    "employee_id": "EMP-000339",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000340",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000040",
+    "employee_id": "EMP-000340",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000341",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000041",
+    "employee_id": "EMP-000341",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000342",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000042",
+    "employee_id": "EMP-000342",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000343",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000043",
+    "employee_id": "EMP-000343",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000344",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000044",
+    "employee_id": "EMP-000344",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000345",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000045",
+    "employee_id": "EMP-000345",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000346",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000046",
+    "employee_id": "EMP-000346",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000347",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000047",
+    "employee_id": "EMP-000347",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000348",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000048",
+    "employee_id": "EMP-000348",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000349",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000049",
+    "employee_id": "EMP-000349",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000350",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000050",
+    "employee_id": "EMP-000350",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000351",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000001",
+    "employee_id": "EMP-000351",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000352",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000002",
+    "employee_id": "EMP-000352",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000353",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000003",
+    "employee_id": "EMP-000353",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000354",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000004",
+    "employee_id": "EMP-000354",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000355",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000005",
+    "employee_id": "EMP-000355",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000356",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000006",
+    "employee_id": "EMP-000356",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000357",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000007",
+    "employee_id": "EMP-000357",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000358",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000008",
+    "employee_id": "EMP-000358",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000359",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000009",
+    "employee_id": "EMP-000359",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000360",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000010",
+    "employee_id": "EMP-000360",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000361",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000011",
+    "employee_id": "EMP-000361",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000362",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000012",
+    "employee_id": "EMP-000362",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000363",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000013",
+    "employee_id": "EMP-000363",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000364",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000014",
+    "employee_id": "EMP-000364",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000365",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000015",
+    "employee_id": "EMP-000365",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000366",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000016",
+    "employee_id": "EMP-000366",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000367",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000017",
+    "employee_id": "EMP-000367",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000368",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000018",
+    "employee_id": "EMP-000368",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000369",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000019",
+    "employee_id": "EMP-000369",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000370",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000020",
+    "employee_id": "EMP-000370",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000371",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000021",
+    "employee_id": "EMP-000371",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000372",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000022",
+    "employee_id": "EMP-000372",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000373",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000023",
+    "employee_id": "EMP-000373",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000374",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000024",
+    "employee_id": "EMP-000374",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000375",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000025",
+    "employee_id": "EMP-000375",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000376",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000026",
+    "employee_id": "EMP-000376",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000377",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000027",
+    "employee_id": "EMP-000377",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000378",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000028",
+    "employee_id": "EMP-000378",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000379",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000029",
+    "employee_id": "EMP-000379",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000380",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000030",
+    "employee_id": "EMP-000380",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000381",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000031",
+    "employee_id": "EMP-000381",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000382",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000032",
+    "employee_id": "EMP-000382",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000383",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000033",
+    "employee_id": "EMP-000383",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000384",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000034",
+    "employee_id": "EMP-000384",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000385",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000035",
+    "employee_id": "EMP-000385",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000386",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000036",
+    "employee_id": "EMP-000386",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000387",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000037",
+    "employee_id": "EMP-000387",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000388",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000038",
+    "employee_id": "EMP-000388",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000389",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000039",
+    "employee_id": "EMP-000389",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000390",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000040",
+    "employee_id": "EMP-000390",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000391",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000041",
+    "employee_id": "EMP-000391",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000392",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000042",
+    "employee_id": "EMP-000392",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000393",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000043",
+    "employee_id": "EMP-000393",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000394",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000044",
+    "employee_id": "EMP-000394",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000395",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000045",
+    "employee_id": "EMP-000395",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000396",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000046",
+    "employee_id": "EMP-000396",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000397",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000047",
+    "employee_id": "EMP-000397",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000398",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000048",
+    "employee_id": "EMP-000398",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000399",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000049",
+    "employee_id": "EMP-000399",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000400",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000050",
+    "employee_id": "EMP-000400",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000401",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000001",
+    "employee_id": "EMP-000401",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000402",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000002",
+    "employee_id": "EMP-000402",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000403",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000003",
+    "employee_id": "EMP-000403",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000404",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000004",
+    "employee_id": "EMP-000404",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000405",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000005",
+    "employee_id": "EMP-000405",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000406",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000006",
+    "employee_id": "EMP-000406",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000407",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000007",
+    "employee_id": "EMP-000407",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000408",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000008",
+    "employee_id": "EMP-000408",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000409",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000009",
+    "employee_id": "EMP-000409",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000410",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000010",
+    "employee_id": "EMP-000410",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000411",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000011",
+    "employee_id": "EMP-000411",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000412",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000012",
+    "employee_id": "EMP-000412",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000413",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000013",
+    "employee_id": "EMP-000413",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000414",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000014",
+    "employee_id": "EMP-000414",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000415",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000015",
+    "employee_id": "EMP-000415",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000416",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000016",
+    "employee_id": "EMP-000416",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000417",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000017",
+    "employee_id": "EMP-000417",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000418",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000018",
+    "employee_id": "EMP-000418",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000419",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000019",
+    "employee_id": "EMP-000419",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000420",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000020",
+    "employee_id": "EMP-000420",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000421",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000021",
+    "employee_id": "EMP-000421",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000422",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000022",
+    "employee_id": "EMP-000422",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000423",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000023",
+    "employee_id": "EMP-000423",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000424",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000024",
+    "employee_id": "EMP-000424",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000425",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000025",
+    "employee_id": "EMP-000425",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000426",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000026",
+    "employee_id": "EMP-000426",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000427",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000027",
+    "employee_id": "EMP-000427",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000428",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000028",
+    "employee_id": "EMP-000428",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000429",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000029",
+    "employee_id": "EMP-000429",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000430",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000030",
+    "employee_id": "EMP-000430",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000431",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000031",
+    "employee_id": "EMP-000431",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000432",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000032",
+    "employee_id": "EMP-000432",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000433",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000033",
+    "employee_id": "EMP-000433",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000434",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000034",
+    "employee_id": "EMP-000434",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000435",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000035",
+    "employee_id": "EMP-000435",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000436",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000036",
+    "employee_id": "EMP-000436",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000437",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000037",
+    "employee_id": "EMP-000437",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000438",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000038",
+    "employee_id": "EMP-000438",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000439",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000039",
+    "employee_id": "EMP-000439",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000440",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000040",
+    "employee_id": "EMP-000440",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000441",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000041",
+    "employee_id": "EMP-000441",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000442",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000042",
+    "employee_id": "EMP-000442",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000443",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000043",
+    "employee_id": "EMP-000443",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000444",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000044",
+    "employee_id": "EMP-000444",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000445",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000045",
+    "employee_id": "EMP-000445",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000446",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000046",
+    "employee_id": "EMP-000446",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000447",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000047",
+    "employee_id": "EMP-000447",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000448",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000048",
+    "employee_id": "EMP-000448",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000449",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000049",
+    "employee_id": "EMP-000449",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000450",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000050",
+    "employee_id": "EMP-000450",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000451",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000001",
+    "employee_id": "EMP-000451",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000452",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000002",
+    "employee_id": "EMP-000452",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000453",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000003",
+    "employee_id": "EMP-000453",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000454",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000004",
+    "employee_id": "EMP-000454",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000455",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000005",
+    "employee_id": "EMP-000455",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000456",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000006",
+    "employee_id": "EMP-000456",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000457",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000007",
+    "employee_id": "EMP-000457",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000458",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000008",
+    "employee_id": "EMP-000458",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000459",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000009",
+    "employee_id": "EMP-000459",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000460",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000010",
+    "employee_id": "EMP-000460",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000461",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000011",
+    "employee_id": "EMP-000461",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000462",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000012",
+    "employee_id": "EMP-000462",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000463",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000013",
+    "employee_id": "EMP-000463",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000464",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000014",
+    "employee_id": "EMP-000464",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000465",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000015",
+    "employee_id": "EMP-000465",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000466",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000016",
+    "employee_id": "EMP-000466",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000467",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000017",
+    "employee_id": "EMP-000467",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000468",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000018",
+    "employee_id": "EMP-000468",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000469",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000019",
+    "employee_id": "EMP-000469",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000470",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000020",
+    "employee_id": "EMP-000470",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000471",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000021",
+    "employee_id": "EMP-000471",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000472",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000022",
+    "employee_id": "EMP-000472",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000473",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000023",
+    "employee_id": "EMP-000473",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000474",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000024",
+    "employee_id": "EMP-000474",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000475",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000025",
+    "employee_id": "EMP-000475",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000476",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000026",
+    "employee_id": "EMP-000476",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000477",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000027",
+    "employee_id": "EMP-000477",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000478",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000028",
+    "employee_id": "EMP-000478",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000479",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000029",
+    "employee_id": "EMP-000479",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000480",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000030",
+    "employee_id": "EMP-000480",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000481",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000031",
+    "employee_id": "EMP-000481",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000482",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000032",
+    "employee_id": "EMP-000482",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000483",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000033",
+    "employee_id": "EMP-000483",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000484",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000034",
+    "employee_id": "EMP-000484",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000485",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000035",
+    "employee_id": "EMP-000485",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000486",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000036",
+    "employee_id": "EMP-000486",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000487",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000037",
+    "employee_id": "EMP-000487",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000488",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000038",
+    "employee_id": "EMP-000488",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000489",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000039",
+    "employee_id": "EMP-000489",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000490",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000040",
+    "employee_id": "EMP-000490",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000491",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000041",
+    "employee_id": "EMP-000491",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000492",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000042",
+    "employee_id": "EMP-000492",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000493",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000043",
+    "employee_id": "EMP-000493",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000494",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000044",
+    "employee_id": "EMP-000494",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000495",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000045",
+    "employee_id": "EMP-000495",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000496",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000046",
+    "employee_id": "EMP-000496",
+    "status": "pending"
+  },
+  {
+    "approval_id": "APR-000497",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000047",
+    "employee_id": "EMP-000497",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000498",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000048",
+    "employee_id": "EMP-000498",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000499",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000049",
+    "employee_id": "EMP-000499",
+    "status": "approved"
+  },
+  {
+    "approval_id": "APR-000500",
+    "approval_type": "onboarding",
+    "approver_id": "MGR-000050",
+    "employee_id": "EMP-000500",
+    "status": "pending"
+  }
+]

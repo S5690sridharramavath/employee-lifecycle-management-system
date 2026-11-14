@@ -1,0 +1,50 @@
+[
+  {
+    "depends_on_template_id": "",
+    "owner_role": "HR",
+    "template_id": "TMPL-001",
+    "title": "Identity verification"
+  },
+  {
+    "depends_on_template_id": "",
+    "owner_role": "HR",
+    "template_id": "TMPL-002",
+    "title": "Background check"
+  },
+  {
+    "depends_on_template_id": "TMPL-001",
+    "owner_role": "IT",
+    "template_id": "TMPL-003",
+    "title": "Create company account"
+  },
+  {
+    "depends_on_template_id": "TMPL-001",
+    "owner_role": "IT",
+    "template_id": "TMPL-004",
+    "title": "Configure laptop"
+  },
+  {
+    "depends_on_template_id": "TMPL-003",
+    "owner_role": "IT",
+    "template_id": "TMPL-005",
+    "title": "Grant application access"
+  },
+  {
+    "depends_on_template_id": "",
+    "owner_role": "Facilities",
+    "template_id": "TMPL-006",
+    "title": "Prepare workstation"
+  },
+  {
+    "depends_on_template_id": "",
+    "owner_role": "Manager",
+    "template_id": "TMPL-007",
+    "title": "Manager introduction"
+  },
+  {
+    "depends_on_template_id": "TMPL-002",
+    "owner_role": "HR",
+    "template_id": "TMPL-008",
+    "title": "Complete orientation"
+  }
+]

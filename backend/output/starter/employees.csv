@@ -1,0 +1,26 @@
+background_check_status,department_id,email,employee_id,employment_type,joining_date,manager_id,name,previous_department_id,role_id,status,work_location
+,DEPT-001,employee1@example.com,EMP-000001,permanent,2026-05-01,,Employee 0001,,ROLE-001,active,remote
+pending,DEPT-002,employee2@example.com,EMP-000002,permanent,2025-12-31,MGR-000002,Employee 0002,,ROLE-002,active,remote
+,DEPT-004,employee3@example.com,EMP-000003,contractor,2026-01-31,MGR-000001,Employee 0003,DEPT-003,ROLE-003,active,remote
+,DEPT-004,employee4@example.com,EMP-000004,permanent,2026-04-10,MGR-000002,Employee 0004,,ROLE-004,active,on_site
+,DEPT-005,employee5@example.com,EMP-000005,permanent,2026-02-24,MGR-000001,Employee 0005,,ROLE-005,active,hybrid
+,DEPT-006,employee6@example.com,EMP-000006,contractor,2026-04-10,MGR-000002,Employee 0006,,ROLE-006,active,remote
+,DEPT-007,employee7@example.com,EMP-000007,permanent,2026-09-18,MGR-000001,Employee 0007,,ROLE-007,active,remote
+,DEPT-008,employee8@example.com,EMP-000008,permanent,2026-04-21,MGR-000002,Employee 0008,,ROLE-008,active,hybrid
+,DEPT-001,employee9@example.com,EMP-000009,contractor,2026-08-19,MGR-000001,Employee 0009,,ROLE-009,active,remote
+,DEPT-002,employee10@example.com,EMP-000010,permanent,2026-02-28,MGR-000002,Employee 0010,,ROLE-010,terminated,on_site
+,DEPT-003,employee11@example.com,EMP-000011,permanent,2026-03-14,MGR-000001,Employee 0011,,ROLE-011,active,hybrid
+,DEPT-004,employee12@example.com,EMP-000012,contractor,2026-06-28,MGR-000002,Employee 0012,,ROLE-012,active,on_site
+,DEPT-001,employee13@example.com,EMP-000013,permanent,2026-01-30,MGR-000001,Employee 0013,,ROLE-001,active,remote
+,DEPT-002,employee14@example.com,EMP-000014,permanent,2026-03-17,MGR-000002,Employee 0014,,ROLE-002,active,remote
+,DEPT-003,employee15@example.com,EMP-000015,contractor,2026-08-23,MGR-000001,Employee 0015,,ROLE-003,active,remote
+,DEPT-004,employee16@example.com,EMP-000016,permanent,2026-02-25,MGR-000002,Employee 0016,,ROLE-004,active,hybrid
+,DEPT-005,employee17@example.com,EMP-000017,permanent,2026-04-25,MGR-000001,Employee 0017,,ROLE-005,active,hybrid
+,DEPT-006,employee18@example.com,EMP-000018,contractor,2026-09-20,MGR-000002,Employee 0018,,ROLE-006,active,on_site
+,DEPT-007,employee19@example.com,EMP-000019,permanent,2026-02-18,MGR-000001,Employee 0019,,ROLE-007,active,remote
+,DEPT-008,employee20@example.com,EMP-000020,permanent,2026-08-12,MGR-000002,Employee 0020,,ROLE-008,terminated,hybrid
+,DEPT-001,employee21@example.com,EMP-000021,contractor,2026-08-02,MGR-000001,Employee 0021,,ROLE-009,active,remote
+,DEPT-002,employee22@example.com,EMP-000022,permanent,2026-08-07,MGR-000002,Employee 0022,,ROLE-010,active,on_site
+,DEPT-003,employee23@example.com,EMP-000023,permanent,2026-01-24,MGR-000001,Employee 0023,,ROLE-011,active,remote
+,DEPT-004,employee24@example.com,EMP-000024,contractor,2026-07-17,MGR-000002,Employee 0024,,ROLE-012,active,hybrid
+,DEPT-001,employee25@example.com,EMP-000025,permanent,2026-04-17,MGR-000001,Employee 0025,,ROLE-001,active,remote

@@ -1,0 +1,44 @@
+[
+  {
+    "entity_id": "TASK-ONB-000001-003",
+    "entity_type": "TaskInstance",
+    "expected_decision": "Flag dependency violation",
+    "issue_type": "task_completed_before_prerequisite"
+  },
+  {
+    "entity_id": "EMP-000001",
+    "entity_type": "Employee",
+    "expected_decision": "Flag missing manager relationship",
+    "issue_type": "manager_missing"
+  },
+  {
+    "entity_id": "AST-LAP-000002",
+    "entity_type": "Asset",
+    "expected_decision": "Flag duplicate employee asset assignment",
+    "issue_type": "asset_assigned_twice"
+  },
+  {
+    "entity_id": "EMP-000002",
+    "entity_type": "Employee",
+    "expected_decision": "Flag start before background check completion",
+    "issue_type": "start_before_background_check"
+  },
+  {
+    "entity_id": "ACCREQ-2026-000010",
+    "entity_type": "AccessRequest",
+    "expected_decision": "Revoke access and create audit event",
+    "issue_type": "offboarding_active_access"
+  },
+  {
+    "entity_id": "TASK-ONB-000001-001",
+    "entity_type": "TaskInstance",
+    "expected_decision": "Flag SLA breach and escalate",
+    "issue_type": "overdue_task"
+  },
+  {
+    "entity_id": "EMP-000003",
+    "entity_type": "Employee",
+    "expected_decision": "Preserve department change history",
+    "issue_type": "department_changed_mid_process"
+  }
+]

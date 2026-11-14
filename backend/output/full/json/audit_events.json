@@ -1,0 +1,4002 @@
+[
+  {
+    "audit_id": "AUD-2026-01-01-000001",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000001",
+    "entity_type": "Employee",
+    "event_date": "2026-05-01",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000002",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000002",
+    "entity_type": "Employee",
+    "event_date": "2026-10-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000003",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000003",
+    "entity_type": "Employee",
+    "event_date": "2026-01-31",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000004",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000004",
+    "entity_type": "Employee",
+    "event_date": "2026-04-10",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000005",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000005",
+    "entity_type": "Employee",
+    "event_date": "2026-02-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000006",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000006",
+    "entity_type": "Employee",
+    "event_date": "2026-04-10",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000007",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000007",
+    "entity_type": "Employee",
+    "event_date": "2026-09-18",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000008",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000008",
+    "entity_type": "Employee",
+    "event_date": "2026-04-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000009",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000009",
+    "entity_type": "Employee",
+    "event_date": "2026-08-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000010",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000010",
+    "entity_type": "Employee",
+    "event_date": "2026-02-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000011",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000011",
+    "entity_type": "Employee",
+    "event_date": "2026-03-14",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000012",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000012",
+    "entity_type": "Employee",
+    "event_date": "2026-06-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000013",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000013",
+    "entity_type": "Employee",
+    "event_date": "2026-01-30",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000014",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000014",
+    "entity_type": "Employee",
+    "event_date": "2026-03-17",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000015",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000015",
+    "entity_type": "Employee",
+    "event_date": "2026-08-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000016",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000016",
+    "entity_type": "Employee",
+    "event_date": "2026-02-25",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000017",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000017",
+    "entity_type": "Employee",
+    "event_date": "2026-04-25",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000018",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000018",
+    "entity_type": "Employee",
+    "event_date": "2026-09-20",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000019",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000019",
+    "entity_type": "Employee",
+    "event_date": "2026-02-18",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000020",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000020",
+    "entity_type": "Employee",
+    "event_date": "2026-08-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000021",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000021",
+    "entity_type": "Employee",
+    "event_date": "2026-08-02",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000022",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000022",
+    "entity_type": "Employee",
+    "event_date": "2026-08-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000023",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000023",
+    "entity_type": "Employee",
+    "event_date": "2026-01-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000024",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000024",
+    "entity_type": "Employee",
+    "event_date": "2026-07-17",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000025",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000025",
+    "entity_type": "Employee",
+    "event_date": "2026-04-17",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000026",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000026",
+    "entity_type": "Employee",
+    "event_date": "2026-02-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000027",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000027",
+    "entity_type": "Employee",
+    "event_date": "2026-02-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000028",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000028",
+    "entity_type": "Employee",
+    "event_date": "2026-09-16",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000029",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000029",
+    "entity_type": "Employee",
+    "event_date": "2026-01-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000030",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000030",
+    "entity_type": "Employee",
+    "event_date": "2026-02-08",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000031",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000031",
+    "entity_type": "Employee",
+    "event_date": "2026-04-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000032",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000032",
+    "entity_type": "Employee",
+    "event_date": "2026-09-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000033",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000033",
+    "entity_type": "Employee",
+    "event_date": "2026-02-08",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000034",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000034",
+    "entity_type": "Employee",
+    "event_date": "2026-09-30",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000035",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000035",
+    "entity_type": "Employee",
+    "event_date": "2026-07-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000036",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000036",
+    "entity_type": "Employee",
+    "event_date": "2026-07-13",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000037",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000037",
+    "entity_type": "Employee",
+    "event_date": "2026-09-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000038",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000038",
+    "entity_type": "Employee",
+    "event_date": "2026-05-02",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000039",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000039",
+    "entity_type": "Employee",
+    "event_date": "2026-03-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000040",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000040",
+    "entity_type": "Employee",
+    "event_date": "2026-09-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000041",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000041",
+    "entity_type": "Employee",
+    "event_date": "2026-09-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000042",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000042",
+    "entity_type": "Employee",
+    "event_date": "2026-07-09",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000043",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000043",
+    "entity_type": "Employee",
+    "event_date": "2026-01-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000044",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000044",
+    "entity_type": "Employee",
+    "event_date": "2026-08-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000045",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000045",
+    "entity_type": "Employee",
+    "event_date": "2026-03-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000046",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000046",
+    "entity_type": "Employee",
+    "event_date": "2026-05-30",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000047",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000047",
+    "entity_type": "Employee",
+    "event_date": "2026-01-26",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000048",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000048",
+    "entity_type": "Employee",
+    "event_date": "2026-09-16",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000049",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000049",
+    "entity_type": "Employee",
+    "event_date": "2026-07-17",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000050",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000050",
+    "entity_type": "Employee",
+    "event_date": "2026-05-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000051",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000051",
+    "entity_type": "Employee",
+    "event_date": "2026-01-11",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000052",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000052",
+    "entity_type": "Employee",
+    "event_date": "2026-06-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000053",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000053",
+    "entity_type": "Employee",
+    "event_date": "2026-04-13",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000054",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000054",
+    "entity_type": "Employee",
+    "event_date": "2026-06-11",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000055",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000055",
+    "entity_type": "Employee",
+    "event_date": "2026-10-13",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000056",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000056",
+    "entity_type": "Employee",
+    "event_date": "2026-09-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000057",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000057",
+    "entity_type": "Employee",
+    "event_date": "2026-09-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000058",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000058",
+    "entity_type": "Employee",
+    "event_date": "2026-05-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000059",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000059",
+    "entity_type": "Employee",
+    "event_date": "2026-05-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000060",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000060",
+    "entity_type": "Employee",
+    "event_date": "2026-09-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000061",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000061",
+    "entity_type": "Employee",
+    "event_date": "2026-10-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000062",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000062",
+    "entity_type": "Employee",
+    "event_date": "2026-07-01",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000063",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000063",
+    "entity_type": "Employee",
+    "event_date": "2026-07-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000064",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000064",
+    "entity_type": "Employee",
+    "event_date": "2026-03-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000065",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000065",
+    "entity_type": "Employee",
+    "event_date": "2026-03-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000066",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000066",
+    "entity_type": "Employee",
+    "event_date": "2026-09-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000067",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000067",
+    "entity_type": "Employee",
+    "event_date": "2026-08-20",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000068",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000068",
+    "entity_type": "Employee",
+    "event_date": "2026-01-05",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000069",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000069",
+    "entity_type": "Employee",
+    "event_date": "2026-08-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000070",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000070",
+    "entity_type": "Employee",
+    "event_date": "2026-10-26",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000071",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000071",
+    "entity_type": "Employee",
+    "event_date": "2026-10-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000072",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000072",
+    "entity_type": "Employee",
+    "event_date": "2026-04-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000073",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000073",
+    "entity_type": "Employee",
+    "event_date": "2026-03-05",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000074",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000074",
+    "entity_type": "Employee",
+    "event_date": "2026-09-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000075",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000075",
+    "entity_type": "Employee",
+    "event_date": "2026-10-15",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000076",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000076",
+    "entity_type": "Employee",
+    "event_date": "2026-03-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000077",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000077",
+    "entity_type": "Employee",
+    "event_date": "2026-05-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000078",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000078",
+    "entity_type": "Employee",
+    "event_date": "2026-01-10",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000079",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000079",
+    "entity_type": "Employee",
+    "event_date": "2026-08-09",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000080",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000080",
+    "entity_type": "Employee",
+    "event_date": "2026-10-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000081",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000081",
+    "entity_type": "Employee",
+    "event_date": "2026-02-15",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000082",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000082",
+    "entity_type": "Employee",
+    "event_date": "2026-07-27",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000083",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000083",
+    "entity_type": "Employee",
+    "event_date": "2026-01-29",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000084",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000084",
+    "entity_type": "Employee",
+    "event_date": "2026-02-25",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000085",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000085",
+    "entity_type": "Employee",
+    "event_date": "2026-04-11",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000086",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000086",
+    "entity_type": "Employee",
+    "event_date": "2026-05-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000087",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000087",
+    "entity_type": "Employee",
+    "event_date": "2026-07-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000088",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000088",
+    "entity_type": "Employee",
+    "event_date": "2026-09-30",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000089",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000089",
+    "entity_type": "Employee",
+    "event_date": "2026-02-02",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000090",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000090",
+    "entity_type": "Employee",
+    "event_date": "2026-01-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000091",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000091",
+    "entity_type": "Employee",
+    "event_date": "2026-04-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000092",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000092",
+    "entity_type": "Employee",
+    "event_date": "2026-04-14",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000093",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000093",
+    "entity_type": "Employee",
+    "event_date": "2026-02-02",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000094",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000094",
+    "entity_type": "Employee",
+    "event_date": "2026-04-15",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000095",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000095",
+    "entity_type": "Employee",
+    "event_date": "2026-05-02",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000096",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000096",
+    "entity_type": "Employee",
+    "event_date": "2026-07-26",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000097",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000097",
+    "entity_type": "Employee",
+    "event_date": "2026-07-09",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000098",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000098",
+    "entity_type": "Employee",
+    "event_date": "2026-07-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000099",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000099",
+    "entity_type": "Employee",
+    "event_date": "2026-06-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000100",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000100",
+    "entity_type": "Employee",
+    "event_date": "2026-01-26",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000101",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000101",
+    "entity_type": "Employee",
+    "event_date": "2026-08-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000102",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000102",
+    "entity_type": "Employee",
+    "event_date": "2026-04-25",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000103",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000103",
+    "entity_type": "Employee",
+    "event_date": "2026-03-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000104",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000104",
+    "entity_type": "Employee",
+    "event_date": "2026-05-27",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000105",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000105",
+    "entity_type": "Employee",
+    "event_date": "2026-09-02",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000106",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000106",
+    "entity_type": "Employee",
+    "event_date": "2026-08-08",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000107",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000107",
+    "entity_type": "Employee",
+    "event_date": "2026-07-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000108",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000108",
+    "entity_type": "Employee",
+    "event_date": "2026-02-01",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000109",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000109",
+    "entity_type": "Employee",
+    "event_date": "2026-04-25",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000110",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000110",
+    "entity_type": "Employee",
+    "event_date": "2026-03-13",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000111",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000111",
+    "entity_type": "Employee",
+    "event_date": "2026-04-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000112",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000112",
+    "entity_type": "Employee",
+    "event_date": "2026-09-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000113",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000113",
+    "entity_type": "Employee",
+    "event_date": "2026-08-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000114",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000114",
+    "entity_type": "Employee",
+    "event_date": "2026-07-25",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000115",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000115",
+    "entity_type": "Employee",
+    "event_date": "2026-10-20",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000116",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000116",
+    "entity_type": "Employee",
+    "event_date": "2026-02-14",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000117",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000117",
+    "entity_type": "Employee",
+    "event_date": "2026-02-16",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000118",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000118",
+    "entity_type": "Employee",
+    "event_date": "2026-10-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000119",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000119",
+    "entity_type": "Employee",
+    "event_date": "2026-01-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000120",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000120",
+    "entity_type": "Employee",
+    "event_date": "2026-04-29",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000121",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000121",
+    "entity_type": "Employee",
+    "event_date": "2026-10-11",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000122",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000122",
+    "entity_type": "Employee",
+    "event_date": "2026-06-09",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000123",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000123",
+    "entity_type": "Employee",
+    "event_date": "2026-10-16",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000124",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000124",
+    "entity_type": "Employee",
+    "event_date": "2026-05-09",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000125",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000125",
+    "entity_type": "Employee",
+    "event_date": "2026-09-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000126",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000126",
+    "entity_type": "Employee",
+    "event_date": "2026-10-25",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000127",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000127",
+    "entity_type": "Employee",
+    "event_date": "2026-01-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000128",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000128",
+    "entity_type": "Employee",
+    "event_date": "2026-10-10",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000129",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000129",
+    "entity_type": "Employee",
+    "event_date": "2026-05-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000130",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000130",
+    "entity_type": "Employee",
+    "event_date": "2026-06-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000131",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000131",
+    "entity_type": "Employee",
+    "event_date": "2026-05-26",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000132",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000132",
+    "entity_type": "Employee",
+    "event_date": "2026-07-01",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000133",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000133",
+    "entity_type": "Employee",
+    "event_date": "2026-02-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000134",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000134",
+    "entity_type": "Employee",
+    "event_date": "2026-03-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000135",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000135",
+    "entity_type": "Employee",
+    "event_date": "2026-10-16",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000136",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000136",
+    "entity_type": "Employee",
+    "event_date": "2026-06-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000137",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000137",
+    "entity_type": "Employee",
+    "event_date": "2026-06-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000138",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000138",
+    "entity_type": "Employee",
+    "event_date": "2026-04-13",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000139",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000139",
+    "entity_type": "Employee",
+    "event_date": "2026-04-13",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000140",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000140",
+    "entity_type": "Employee",
+    "event_date": "2026-04-13",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000141",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000141",
+    "entity_type": "Employee",
+    "event_date": "2026-03-04",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000142",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000142",
+    "entity_type": "Employee",
+    "event_date": "2026-06-26",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000143",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000143",
+    "entity_type": "Employee",
+    "event_date": "2026-06-30",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000144",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000144",
+    "entity_type": "Employee",
+    "event_date": "2026-06-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000145",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000145",
+    "entity_type": "Employee",
+    "event_date": "2026-03-08",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000146",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000146",
+    "entity_type": "Employee",
+    "event_date": "2026-04-11",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000147",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000147",
+    "entity_type": "Employee",
+    "event_date": "2026-09-05",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000148",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000148",
+    "entity_type": "Employee",
+    "event_date": "2026-10-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000149",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000149",
+    "entity_type": "Employee",
+    "event_date": "2026-07-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000150",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000150",
+    "entity_type": "Employee",
+    "event_date": "2026-09-10",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000151",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000151",
+    "entity_type": "Employee",
+    "event_date": "2026-01-09",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000152",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000152",
+    "entity_type": "Employee",
+    "event_date": "2026-06-01",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000153",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000153",
+    "entity_type": "Employee",
+    "event_date": "2026-06-20",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000154",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000154",
+    "entity_type": "Employee",
+    "event_date": "2026-05-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000155",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000155",
+    "entity_type": "Employee",
+    "event_date": "2026-08-11",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000156",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000156",
+    "entity_type": "Employee",
+    "event_date": "2026-07-14",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000157",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000157",
+    "entity_type": "Employee",
+    "event_date": "2026-01-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000158",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000158",
+    "entity_type": "Employee",
+    "event_date": "2026-02-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000159",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000159",
+    "entity_type": "Employee",
+    "event_date": "2026-09-26",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000160",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000160",
+    "entity_type": "Employee",
+    "event_date": "2026-03-10",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000161",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000161",
+    "entity_type": "Employee",
+    "event_date": "2026-02-18",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000162",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000162",
+    "entity_type": "Employee",
+    "event_date": "2026-06-27",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000163",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000163",
+    "entity_type": "Employee",
+    "event_date": "2026-02-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000164",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000164",
+    "entity_type": "Employee",
+    "event_date": "2026-06-01",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000165",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000165",
+    "entity_type": "Employee",
+    "event_date": "2026-10-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000166",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000166",
+    "entity_type": "Employee",
+    "event_date": "2026-03-31",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000167",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000167",
+    "entity_type": "Employee",
+    "event_date": "2026-04-17",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000168",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000168",
+    "entity_type": "Employee",
+    "event_date": "2026-01-09",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000169",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000169",
+    "entity_type": "Employee",
+    "event_date": "2026-02-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000170",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000170",
+    "entity_type": "Employee",
+    "event_date": "2026-07-01",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000171",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000171",
+    "entity_type": "Employee",
+    "event_date": "2026-10-15",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000172",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000172",
+    "entity_type": "Employee",
+    "event_date": "2026-08-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000173",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000173",
+    "entity_type": "Employee",
+    "event_date": "2026-03-29",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000174",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000174",
+    "entity_type": "Employee",
+    "event_date": "2026-07-01",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000175",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000175",
+    "entity_type": "Employee",
+    "event_date": "2026-10-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000176",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000176",
+    "entity_type": "Employee",
+    "event_date": "2026-06-20",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000177",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000177",
+    "entity_type": "Employee",
+    "event_date": "2026-09-02",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000178",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000178",
+    "entity_type": "Employee",
+    "event_date": "2026-02-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000179",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000179",
+    "entity_type": "Employee",
+    "event_date": "2026-03-17",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000180",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000180",
+    "entity_type": "Employee",
+    "event_date": "2026-05-13",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000181",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000181",
+    "entity_type": "Employee",
+    "event_date": "2026-07-05",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000182",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000182",
+    "entity_type": "Employee",
+    "event_date": "2026-05-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000183",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000183",
+    "entity_type": "Employee",
+    "event_date": "2026-06-25",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000184",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000184",
+    "entity_type": "Employee",
+    "event_date": "2026-02-15",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000185",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000185",
+    "entity_type": "Employee",
+    "event_date": "2026-04-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000186",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000186",
+    "entity_type": "Employee",
+    "event_date": "2026-05-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000187",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000187",
+    "entity_type": "Employee",
+    "event_date": "2026-02-14",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000188",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000188",
+    "entity_type": "Employee",
+    "event_date": "2026-09-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000189",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000189",
+    "entity_type": "Employee",
+    "event_date": "2026-04-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000190",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000190",
+    "entity_type": "Employee",
+    "event_date": "2026-02-17",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000191",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000191",
+    "entity_type": "Employee",
+    "event_date": "2026-06-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000192",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000192",
+    "entity_type": "Employee",
+    "event_date": "2026-03-25",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000193",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000193",
+    "entity_type": "Employee",
+    "event_date": "2026-01-04",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000194",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000194",
+    "entity_type": "Employee",
+    "event_date": "2026-08-25",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000195",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000195",
+    "entity_type": "Employee",
+    "event_date": "2026-01-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000196",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000196",
+    "entity_type": "Employee",
+    "event_date": "2026-02-01",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000197",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000197",
+    "entity_type": "Employee",
+    "event_date": "2026-01-27",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000198",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000198",
+    "entity_type": "Employee",
+    "event_date": "2026-06-20",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000199",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000199",
+    "entity_type": "Employee",
+    "event_date": "2026-06-30",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000200",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000200",
+    "entity_type": "Employee",
+    "event_date": "2026-03-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000201",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000201",
+    "entity_type": "Employee",
+    "event_date": "2026-10-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000202",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000202",
+    "entity_type": "Employee",
+    "event_date": "2026-05-27",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000203",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000203",
+    "entity_type": "Employee",
+    "event_date": "2026-09-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000204",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000204",
+    "entity_type": "Employee",
+    "event_date": "2026-07-29",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000205",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000205",
+    "entity_type": "Employee",
+    "event_date": "2026-06-08",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000206",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000206",
+    "entity_type": "Employee",
+    "event_date": "2026-07-13",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000207",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000207",
+    "entity_type": "Employee",
+    "event_date": "2026-09-04",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000208",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000208",
+    "entity_type": "Employee",
+    "event_date": "2026-03-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000209",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000209",
+    "entity_type": "Employee",
+    "event_date": "2026-03-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000210",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000210",
+    "entity_type": "Employee",
+    "event_date": "2026-06-15",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000211",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000211",
+    "entity_type": "Employee",
+    "event_date": "2026-03-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000212",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000212",
+    "entity_type": "Employee",
+    "event_date": "2026-01-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000213",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000213",
+    "entity_type": "Employee",
+    "event_date": "2026-01-13",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000214",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000214",
+    "entity_type": "Employee",
+    "event_date": "2026-05-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000215",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000215",
+    "entity_type": "Employee",
+    "event_date": "2026-10-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000216",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000216",
+    "entity_type": "Employee",
+    "event_date": "2026-04-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000217",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000217",
+    "entity_type": "Employee",
+    "event_date": "2026-05-15",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000218",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000218",
+    "entity_type": "Employee",
+    "event_date": "2026-03-31",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000219",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000219",
+    "entity_type": "Employee",
+    "event_date": "2026-08-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000220",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000220",
+    "entity_type": "Employee",
+    "event_date": "2026-08-20",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000221",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000221",
+    "entity_type": "Employee",
+    "event_date": "2026-07-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000222",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000222",
+    "entity_type": "Employee",
+    "event_date": "2026-03-11",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000223",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000223",
+    "entity_type": "Employee",
+    "event_date": "2026-04-05",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000224",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000224",
+    "entity_type": "Employee",
+    "event_date": "2026-02-08",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000225",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000225",
+    "entity_type": "Employee",
+    "event_date": "2026-04-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000226",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000226",
+    "entity_type": "Employee",
+    "event_date": "2026-07-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000227",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000227",
+    "entity_type": "Employee",
+    "event_date": "2026-06-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000228",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000228",
+    "entity_type": "Employee",
+    "event_date": "2026-03-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000229",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000229",
+    "entity_type": "Employee",
+    "event_date": "2026-01-25",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000230",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000230",
+    "entity_type": "Employee",
+    "event_date": "2026-05-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000231",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000231",
+    "entity_type": "Employee",
+    "event_date": "2026-09-04",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000232",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000232",
+    "entity_type": "Employee",
+    "event_date": "2026-01-17",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000233",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000233",
+    "entity_type": "Employee",
+    "event_date": "2026-04-20",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000234",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000234",
+    "entity_type": "Employee",
+    "event_date": "2026-05-16",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000235",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000235",
+    "entity_type": "Employee",
+    "event_date": "2026-07-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000236",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000236",
+    "entity_type": "Employee",
+    "event_date": "2026-05-01",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000237",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000237",
+    "entity_type": "Employee",
+    "event_date": "2026-04-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000238",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000238",
+    "entity_type": "Employee",
+    "event_date": "2026-09-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000239",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000239",
+    "entity_type": "Employee",
+    "event_date": "2026-04-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000240",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000240",
+    "entity_type": "Employee",
+    "event_date": "2026-01-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000241",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000241",
+    "entity_type": "Employee",
+    "event_date": "2026-08-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000242",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000242",
+    "entity_type": "Employee",
+    "event_date": "2026-05-18",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000243",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000243",
+    "entity_type": "Employee",
+    "event_date": "2026-08-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000244",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000244",
+    "entity_type": "Employee",
+    "event_date": "2026-06-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000245",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000245",
+    "entity_type": "Employee",
+    "event_date": "2026-06-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000246",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000246",
+    "entity_type": "Employee",
+    "event_date": "2026-09-20",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000247",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000247",
+    "entity_type": "Employee",
+    "event_date": "2026-10-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000248",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000248",
+    "entity_type": "Employee",
+    "event_date": "2026-09-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000249",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000249",
+    "entity_type": "Employee",
+    "event_date": "2026-05-14",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000250",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000250",
+    "entity_type": "Employee",
+    "event_date": "2026-09-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000251",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000251",
+    "entity_type": "Employee",
+    "event_date": "2026-09-13",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000252",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000252",
+    "entity_type": "Employee",
+    "event_date": "2026-03-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000253",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000253",
+    "entity_type": "Employee",
+    "event_date": "2026-09-04",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000254",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000254",
+    "entity_type": "Employee",
+    "event_date": "2026-06-04",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000255",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000255",
+    "entity_type": "Employee",
+    "event_date": "2026-09-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000256",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000256",
+    "entity_type": "Employee",
+    "event_date": "2026-06-15",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000257",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000257",
+    "entity_type": "Employee",
+    "event_date": "2026-07-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000258",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000258",
+    "entity_type": "Employee",
+    "event_date": "2026-07-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000259",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000259",
+    "entity_type": "Employee",
+    "event_date": "2026-06-26",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000260",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000260",
+    "entity_type": "Employee",
+    "event_date": "2026-04-29",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000261",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000261",
+    "entity_type": "Employee",
+    "event_date": "2026-02-15",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000262",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000262",
+    "entity_type": "Employee",
+    "event_date": "2026-10-16",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000263",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000263",
+    "entity_type": "Employee",
+    "event_date": "2026-04-26",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000264",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000264",
+    "entity_type": "Employee",
+    "event_date": "2026-04-08",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000265",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000265",
+    "entity_type": "Employee",
+    "event_date": "2026-07-18",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000266",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000266",
+    "entity_type": "Employee",
+    "event_date": "2026-01-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000267",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000267",
+    "entity_type": "Employee",
+    "event_date": "2026-03-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000268",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000268",
+    "entity_type": "Employee",
+    "event_date": "2026-07-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000269",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000269",
+    "entity_type": "Employee",
+    "event_date": "2026-09-18",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000270",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000270",
+    "entity_type": "Employee",
+    "event_date": "2026-09-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000271",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000271",
+    "entity_type": "Employee",
+    "event_date": "2026-05-18",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000272",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000272",
+    "entity_type": "Employee",
+    "event_date": "2026-10-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000273",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000273",
+    "entity_type": "Employee",
+    "event_date": "2026-05-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000274",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000274",
+    "entity_type": "Employee",
+    "event_date": "2026-03-15",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000275",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000275",
+    "entity_type": "Employee",
+    "event_date": "2026-01-20",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000276",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000276",
+    "entity_type": "Employee",
+    "event_date": "2026-10-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000277",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000277",
+    "entity_type": "Employee",
+    "event_date": "2026-05-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000278",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000278",
+    "entity_type": "Employee",
+    "event_date": "2026-05-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000279",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000279",
+    "entity_type": "Employee",
+    "event_date": "2026-05-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000280",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000280",
+    "entity_type": "Employee",
+    "event_date": "2026-09-26",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000281",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000281",
+    "entity_type": "Employee",
+    "event_date": "2026-03-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000282",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000282",
+    "entity_type": "Employee",
+    "event_date": "2026-03-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000283",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000283",
+    "entity_type": "Employee",
+    "event_date": "2026-05-17",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000284",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000284",
+    "entity_type": "Employee",
+    "event_date": "2026-10-15",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000285",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000285",
+    "entity_type": "Employee",
+    "event_date": "2026-04-27",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000286",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000286",
+    "entity_type": "Employee",
+    "event_date": "2026-05-20",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000287",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000287",
+    "entity_type": "Employee",
+    "event_date": "2026-07-01",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000288",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000288",
+    "entity_type": "Employee",
+    "event_date": "2026-05-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000289",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000289",
+    "entity_type": "Employee",
+    "event_date": "2026-05-04",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000290",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000290",
+    "entity_type": "Employee",
+    "event_date": "2026-09-09",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000291",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000291",
+    "entity_type": "Employee",
+    "event_date": "2026-01-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000292",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000292",
+    "entity_type": "Employee",
+    "event_date": "2026-09-29",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000293",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000293",
+    "entity_type": "Employee",
+    "event_date": "2026-10-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000294",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000294",
+    "entity_type": "Employee",
+    "event_date": "2026-07-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000295",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000295",
+    "entity_type": "Employee",
+    "event_date": "2026-02-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000296",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000296",
+    "entity_type": "Employee",
+    "event_date": "2026-04-25",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000297",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000297",
+    "entity_type": "Employee",
+    "event_date": "2026-07-27",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000298",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000298",
+    "entity_type": "Employee",
+    "event_date": "2026-09-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000299",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000299",
+    "entity_type": "Employee",
+    "event_date": "2026-08-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000300",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000300",
+    "entity_type": "Employee",
+    "event_date": "2026-02-26",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000301",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000301",
+    "entity_type": "Employee",
+    "event_date": "2026-01-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000302",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000302",
+    "entity_type": "Employee",
+    "event_date": "2026-02-09",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000303",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000303",
+    "entity_type": "Employee",
+    "event_date": "2026-02-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000304",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000304",
+    "entity_type": "Employee",
+    "event_date": "2026-04-14",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000305",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000305",
+    "entity_type": "Employee",
+    "event_date": "2026-05-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000306",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000306",
+    "entity_type": "Employee",
+    "event_date": "2026-01-20",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000307",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000307",
+    "entity_type": "Employee",
+    "event_date": "2026-05-18",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000308",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000308",
+    "entity_type": "Employee",
+    "event_date": "2026-05-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000309",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000309",
+    "entity_type": "Employee",
+    "event_date": "2026-07-10",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000310",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000310",
+    "entity_type": "Employee",
+    "event_date": "2026-09-26",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000311",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000311",
+    "entity_type": "Employee",
+    "event_date": "2026-05-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000312",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000312",
+    "entity_type": "Employee",
+    "event_date": "2026-10-18",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000313",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000313",
+    "entity_type": "Employee",
+    "event_date": "2026-09-09",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000314",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000314",
+    "entity_type": "Employee",
+    "event_date": "2026-03-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000315",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000315",
+    "entity_type": "Employee",
+    "event_date": "2026-04-04",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000316",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000316",
+    "entity_type": "Employee",
+    "event_date": "2026-04-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000317",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000317",
+    "entity_type": "Employee",
+    "event_date": "2026-10-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000318",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000318",
+    "entity_type": "Employee",
+    "event_date": "2026-03-30",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000319",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000319",
+    "entity_type": "Employee",
+    "event_date": "2026-06-09",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000320",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000320",
+    "entity_type": "Employee",
+    "event_date": "2026-03-14",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000321",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000321",
+    "entity_type": "Employee",
+    "event_date": "2026-05-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000322",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000322",
+    "entity_type": "Employee",
+    "event_date": "2026-08-30",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000323",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000323",
+    "entity_type": "Employee",
+    "event_date": "2026-03-04",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000324",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000324",
+    "entity_type": "Employee",
+    "event_date": "2026-04-17",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000325",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000325",
+    "entity_type": "Employee",
+    "event_date": "2026-07-18",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000326",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000326",
+    "entity_type": "Employee",
+    "event_date": "2026-02-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000327",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000327",
+    "entity_type": "Employee",
+    "event_date": "2026-03-17",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000328",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000328",
+    "entity_type": "Employee",
+    "event_date": "2026-09-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000329",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000329",
+    "entity_type": "Employee",
+    "event_date": "2026-10-01",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000330",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000330",
+    "entity_type": "Employee",
+    "event_date": "2026-01-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000331",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000331",
+    "entity_type": "Employee",
+    "event_date": "2026-10-26",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000332",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000332",
+    "entity_type": "Employee",
+    "event_date": "2026-07-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000333",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000333",
+    "entity_type": "Employee",
+    "event_date": "2026-10-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000334",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000334",
+    "entity_type": "Employee",
+    "event_date": "2026-05-04",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000335",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000335",
+    "entity_type": "Employee",
+    "event_date": "2026-02-01",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000336",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000336",
+    "entity_type": "Employee",
+    "event_date": "2026-04-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000337",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000337",
+    "entity_type": "Employee",
+    "event_date": "2026-05-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000338",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000338",
+    "entity_type": "Employee",
+    "event_date": "2026-10-18",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000339",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000339",
+    "entity_type": "Employee",
+    "event_date": "2026-02-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000340",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000340",
+    "entity_type": "Employee",
+    "event_date": "2026-02-09",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000341",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000341",
+    "entity_type": "Employee",
+    "event_date": "2026-06-01",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000342",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000342",
+    "entity_type": "Employee",
+    "event_date": "2026-10-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000343",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000343",
+    "entity_type": "Employee",
+    "event_date": "2026-04-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000344",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000344",
+    "entity_type": "Employee",
+    "event_date": "2026-10-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000345",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000345",
+    "entity_type": "Employee",
+    "event_date": "2026-07-18",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000346",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000346",
+    "entity_type": "Employee",
+    "event_date": "2026-05-16",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000347",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000347",
+    "entity_type": "Employee",
+    "event_date": "2026-06-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000348",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000348",
+    "entity_type": "Employee",
+    "event_date": "2026-01-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000349",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000349",
+    "entity_type": "Employee",
+    "event_date": "2026-01-20",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000350",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000350",
+    "entity_type": "Employee",
+    "event_date": "2026-05-11",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000351",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000351",
+    "entity_type": "Employee",
+    "event_date": "2026-08-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000352",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000352",
+    "entity_type": "Employee",
+    "event_date": "2026-01-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000353",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000353",
+    "entity_type": "Employee",
+    "event_date": "2026-03-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000354",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000354",
+    "entity_type": "Employee",
+    "event_date": "2026-05-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000355",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000355",
+    "entity_type": "Employee",
+    "event_date": "2026-08-29",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000356",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000356",
+    "entity_type": "Employee",
+    "event_date": "2026-04-27",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000357",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000357",
+    "entity_type": "Employee",
+    "event_date": "2026-01-11",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000358",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000358",
+    "entity_type": "Employee",
+    "event_date": "2026-08-25",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000359",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000359",
+    "entity_type": "Employee",
+    "event_date": "2026-08-15",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000360",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000360",
+    "entity_type": "Employee",
+    "event_date": "2026-03-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000361",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000361",
+    "entity_type": "Employee",
+    "event_date": "2026-05-14",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000362",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000362",
+    "entity_type": "Employee",
+    "event_date": "2026-01-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000363",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000363",
+    "entity_type": "Employee",
+    "event_date": "2026-04-30",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000364",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000364",
+    "entity_type": "Employee",
+    "event_date": "2026-08-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000365",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000365",
+    "entity_type": "Employee",
+    "event_date": "2026-02-11",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000366",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000366",
+    "entity_type": "Employee",
+    "event_date": "2026-04-10",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000367",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000367",
+    "entity_type": "Employee",
+    "event_date": "2026-05-08",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000368",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000368",
+    "entity_type": "Employee",
+    "event_date": "2026-02-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000369",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000369",
+    "entity_type": "Employee",
+    "event_date": "2026-01-18",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000370",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000370",
+    "entity_type": "Employee",
+    "event_date": "2026-05-30",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000371",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000371",
+    "entity_type": "Employee",
+    "event_date": "2026-08-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000372",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000372",
+    "entity_type": "Employee",
+    "event_date": "2026-04-25",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000373",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000373",
+    "entity_type": "Employee",
+    "event_date": "2026-10-10",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000374",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000374",
+    "entity_type": "Employee",
+    "event_date": "2026-01-14",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000375",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000375",
+    "entity_type": "Employee",
+    "event_date": "2026-09-10",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000376",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000376",
+    "entity_type": "Employee",
+    "event_date": "2026-05-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000377",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000377",
+    "entity_type": "Employee",
+    "event_date": "2026-05-29",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000378",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000378",
+    "entity_type": "Employee",
+    "event_date": "2026-05-02",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000379",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000379",
+    "entity_type": "Employee",
+    "event_date": "2026-04-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000380",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000380",
+    "entity_type": "Employee",
+    "event_date": "2026-04-15",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000381",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000381",
+    "entity_type": "Employee",
+    "event_date": "2026-03-11",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000382",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000382",
+    "entity_type": "Employee",
+    "event_date": "2026-03-29",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000383",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000383",
+    "entity_type": "Employee",
+    "event_date": "2026-09-10",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000384",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000384",
+    "entity_type": "Employee",
+    "event_date": "2026-09-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000385",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000385",
+    "entity_type": "Employee",
+    "event_date": "2026-01-18",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000386",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000386",
+    "entity_type": "Employee",
+    "event_date": "2026-07-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000387",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000387",
+    "entity_type": "Employee",
+    "event_date": "2026-02-20",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000388",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000388",
+    "entity_type": "Employee",
+    "event_date": "2026-07-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000389",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000389",
+    "entity_type": "Employee",
+    "event_date": "2026-06-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000390",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000390",
+    "entity_type": "Employee",
+    "event_date": "2026-04-11",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000391",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000391",
+    "entity_type": "Employee",
+    "event_date": "2026-05-10",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000392",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000392",
+    "entity_type": "Employee",
+    "event_date": "2026-09-30",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000393",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000393",
+    "entity_type": "Employee",
+    "event_date": "2026-08-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000394",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000394",
+    "entity_type": "Employee",
+    "event_date": "2026-01-10",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000395",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000395",
+    "entity_type": "Employee",
+    "event_date": "2026-10-02",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000396",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000396",
+    "entity_type": "Employee",
+    "event_date": "2026-01-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000397",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000397",
+    "entity_type": "Employee",
+    "event_date": "2026-01-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000398",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000398",
+    "entity_type": "Employee",
+    "event_date": "2026-04-08",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000399",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000399",
+    "entity_type": "Employee",
+    "event_date": "2026-10-25",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000400",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000400",
+    "entity_type": "Employee",
+    "event_date": "2026-03-18",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000401",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000401",
+    "entity_type": "Employee",
+    "event_date": "2026-10-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000402",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000402",
+    "entity_type": "Employee",
+    "event_date": "2026-10-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000403",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000403",
+    "entity_type": "Employee",
+    "event_date": "2026-10-16",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000404",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000404",
+    "entity_type": "Employee",
+    "event_date": "2026-02-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000405",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000405",
+    "entity_type": "Employee",
+    "event_date": "2026-06-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000406",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000406",
+    "entity_type": "Employee",
+    "event_date": "2026-02-01",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000407",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000407",
+    "entity_type": "Employee",
+    "event_date": "2026-08-27",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000408",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000408",
+    "entity_type": "Employee",
+    "event_date": "2026-08-17",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000409",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000409",
+    "entity_type": "Employee",
+    "event_date": "2026-03-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000410",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000410",
+    "entity_type": "Employee",
+    "event_date": "2026-05-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000411",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000411",
+    "entity_type": "Employee",
+    "event_date": "2026-07-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000412",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000412",
+    "entity_type": "Employee",
+    "event_date": "2026-03-30",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000413",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000413",
+    "entity_type": "Employee",
+    "event_date": "2026-10-25",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000414",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000414",
+    "entity_type": "Employee",
+    "event_date": "2026-05-18",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000415",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000415",
+    "entity_type": "Employee",
+    "event_date": "2026-04-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000416",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000416",
+    "entity_type": "Employee",
+    "event_date": "2026-05-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000417",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000417",
+    "entity_type": "Employee",
+    "event_date": "2026-05-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000418",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000418",
+    "entity_type": "Employee",
+    "event_date": "2026-09-02",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000419",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000419",
+    "entity_type": "Employee",
+    "event_date": "2026-01-13",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000420",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000420",
+    "entity_type": "Employee",
+    "event_date": "2026-07-05",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000421",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000421",
+    "entity_type": "Employee",
+    "event_date": "2026-01-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000422",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000422",
+    "entity_type": "Employee",
+    "event_date": "2026-03-30",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000423",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000423",
+    "entity_type": "Employee",
+    "event_date": "2026-02-02",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000424",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000424",
+    "entity_type": "Employee",
+    "event_date": "2026-03-10",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000425",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000425",
+    "entity_type": "Employee",
+    "event_date": "2026-07-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000426",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000426",
+    "entity_type": "Employee",
+    "event_date": "2026-03-15",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000427",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000427",
+    "entity_type": "Employee",
+    "event_date": "2026-08-17",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000428",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000428",
+    "entity_type": "Employee",
+    "event_date": "2026-01-25",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000429",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000429",
+    "entity_type": "Employee",
+    "event_date": "2026-07-01",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000430",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000430",
+    "entity_type": "Employee",
+    "event_date": "2026-09-18",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000431",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000431",
+    "entity_type": "Employee",
+    "event_date": "2026-06-13",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000432",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000432",
+    "entity_type": "Employee",
+    "event_date": "2026-04-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000433",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000433",
+    "entity_type": "Employee",
+    "event_date": "2026-04-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000434",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000434",
+    "entity_type": "Employee",
+    "event_date": "2026-10-20",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000435",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000435",
+    "entity_type": "Employee",
+    "event_date": "2026-09-01",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000436",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000436",
+    "entity_type": "Employee",
+    "event_date": "2026-05-29",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000437",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000437",
+    "entity_type": "Employee",
+    "event_date": "2026-01-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000438",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000438",
+    "entity_type": "Employee",
+    "event_date": "2026-03-02",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000439",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000439",
+    "entity_type": "Employee",
+    "event_date": "2026-01-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000440",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000440",
+    "entity_type": "Employee",
+    "event_date": "2026-05-13",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000441",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000441",
+    "entity_type": "Employee",
+    "event_date": "2026-01-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000442",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000442",
+    "entity_type": "Employee",
+    "event_date": "2026-03-21",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000443",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000443",
+    "entity_type": "Employee",
+    "event_date": "2026-03-31",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000444",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000444",
+    "entity_type": "Employee",
+    "event_date": "2026-05-15",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000445",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000445",
+    "entity_type": "Employee",
+    "event_date": "2026-09-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000446",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000446",
+    "entity_type": "Employee",
+    "event_date": "2026-08-09",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000447",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000447",
+    "entity_type": "Employee",
+    "event_date": "2026-01-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000448",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000448",
+    "entity_type": "Employee",
+    "event_date": "2026-07-30",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000449",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000449",
+    "entity_type": "Employee",
+    "event_date": "2026-04-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000450",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000450",
+    "entity_type": "Employee",
+    "event_date": "2026-03-18",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000451",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000451",
+    "entity_type": "Employee",
+    "event_date": "2026-04-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000452",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000452",
+    "entity_type": "Employee",
+    "event_date": "2026-05-13",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000453",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000453",
+    "entity_type": "Employee",
+    "event_date": "2026-09-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000454",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000454",
+    "entity_type": "Employee",
+    "event_date": "2026-07-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000455",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000455",
+    "entity_type": "Employee",
+    "event_date": "2026-05-06",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000456",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000456",
+    "entity_type": "Employee",
+    "event_date": "2026-03-27",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000457",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000457",
+    "entity_type": "Employee",
+    "event_date": "2026-07-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000458",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000458",
+    "entity_type": "Employee",
+    "event_date": "2026-01-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000459",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000459",
+    "entity_type": "Employee",
+    "event_date": "2026-07-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000460",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000460",
+    "entity_type": "Employee",
+    "event_date": "2026-02-09",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000461",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000461",
+    "entity_type": "Employee",
+    "event_date": "2026-09-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000462",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000462",
+    "entity_type": "Employee",
+    "event_date": "2026-08-09",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000463",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000463",
+    "entity_type": "Employee",
+    "event_date": "2026-04-08",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000464",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000464",
+    "entity_type": "Employee",
+    "event_date": "2026-06-10",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000465",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000465",
+    "entity_type": "Employee",
+    "event_date": "2026-03-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000466",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000466",
+    "entity_type": "Employee",
+    "event_date": "2026-01-14",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000467",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000467",
+    "entity_type": "Employee",
+    "event_date": "2026-01-02",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000468",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000468",
+    "entity_type": "Employee",
+    "event_date": "2026-09-23",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000469",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000469",
+    "entity_type": "Employee",
+    "event_date": "2026-09-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000470",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000470",
+    "entity_type": "Employee",
+    "event_date": "2026-07-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000471",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000471",
+    "entity_type": "Employee",
+    "event_date": "2026-06-24",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000472",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000472",
+    "entity_type": "Employee",
+    "event_date": "2026-07-17",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000473",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000473",
+    "entity_type": "Employee",
+    "event_date": "2026-03-29",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000474",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000474",
+    "entity_type": "Employee",
+    "event_date": "2026-10-08",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000475",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000475",
+    "entity_type": "Employee",
+    "event_date": "2026-03-19",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000476",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000476",
+    "entity_type": "Employee",
+    "event_date": "2026-09-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000477",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000477",
+    "entity_type": "Employee",
+    "event_date": "2026-01-04",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000478",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000478",
+    "entity_type": "Employee",
+    "event_date": "2026-04-10",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000479",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000479",
+    "entity_type": "Employee",
+    "event_date": "2026-01-28",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000480",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000480",
+    "entity_type": "Employee",
+    "event_date": "2026-07-14",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000481",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000481",
+    "entity_type": "Employee",
+    "event_date": "2026-08-11",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000482",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000482",
+    "entity_type": "Employee",
+    "event_date": "2026-09-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000483",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000483",
+    "entity_type": "Employee",
+    "event_date": "2026-07-01",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000484",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000484",
+    "entity_type": "Employee",
+    "event_date": "2026-02-13",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000485",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000485",
+    "entity_type": "Employee",
+    "event_date": "2026-03-16",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000486",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000486",
+    "entity_type": "Employee",
+    "event_date": "2026-10-25",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000487",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000487",
+    "entity_type": "Employee",
+    "event_date": "2026-08-20",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000488",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000488",
+    "entity_type": "Employee",
+    "event_date": "2026-04-14",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000489",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000489",
+    "entity_type": "Employee",
+    "event_date": "2026-07-01",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000490",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000490",
+    "entity_type": "Employee",
+    "event_date": "2026-05-11",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000491",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000491",
+    "entity_type": "Employee",
+    "event_date": "2026-05-02",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000492",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000492",
+    "entity_type": "Employee",
+    "event_date": "2026-03-17",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000493",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000493",
+    "entity_type": "Employee",
+    "event_date": "2026-09-02",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000494",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000494",
+    "entity_type": "Employee",
+    "event_date": "2026-05-03",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000495",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000495",
+    "entity_type": "Employee",
+    "event_date": "2026-09-08",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000496",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000496",
+    "entity_type": "Employee",
+    "event_date": "2026-02-07",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000497",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000497",
+    "entity_type": "Employee",
+    "event_date": "2026-05-12",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000498",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000498",
+    "entity_type": "Employee",
+    "event_date": "2026-01-22",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000499",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000499",
+    "entity_type": "Employee",
+    "event_date": "2026-08-11",
+    "event_type": "employee_created"
+  },
+  {
+    "audit_id": "AUD-2026-01-01-000500",
+    "details": "Synthetic employee record generated",
+    "entity_id": "EMP-000500",
+    "entity_type": "Employee",
+    "event_date": "2026-10-05",
+    "event_type": "employee_created"
+  }
+]

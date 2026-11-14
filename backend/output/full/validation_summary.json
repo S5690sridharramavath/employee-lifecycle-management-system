@@ -1,0 +1,18 @@
+{
+  "employee_count": 500,
+  "department_count": 8,
+  "role_count": 12,
+  "manager_count": 50,
+  "onboarding_case_count": 500,
+  "task_count": 4000,
+  "asset_count": 600,
+  "access_request_count": 300,
+  "ground_truth_count": 7,
+  "employee_ids_unique": true,
+  "onboarding_employee_references_valid": true,
+  "task_onboarding_references_valid": true,
+  "task_dependency_references_valid": true,
+  "seed": 20261022,
+  "scale": 1.0,
+  "basic_integrity_passed": true
+}

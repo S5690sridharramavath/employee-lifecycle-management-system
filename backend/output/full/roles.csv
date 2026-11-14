@@ -1,0 +1,13 @@
+department_id,employment_type,role_id,title
+DEPT-001,permanent,ROLE-001,Software Engineer
+DEPT-002,permanent,ROLE-002,Senior Software Engineer
+DEPT-003,contractor,ROLE-003,Data Analyst
+DEPT-004,permanent,ROLE-004,Data Scientist
+DEPT-005,permanent,ROLE-005,HR Executive
+DEPT-006,contractor,ROLE-006,IT Support Engineer
+DEPT-007,permanent,ROLE-007,Finance Analyst
+DEPT-008,permanent,ROLE-008,Product Manager
+DEPT-001,contractor,ROLE-009,QA Engineer
+DEPT-002,permanent,ROLE-010,DevOps Engineer
+DEPT-003,permanent,ROLE-011,Sales Executive
+DEPT-004,contractor,ROLE-012,Facilities Coordinator

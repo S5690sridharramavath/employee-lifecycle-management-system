@@ -1,0 +1,23 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Test and temporary files
+.pytest_cache/
+.coverage
+*.log
+
+# Duplicate reproducibility output
+backend/output/full_repeat/

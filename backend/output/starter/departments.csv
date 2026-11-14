@@ -1,0 +1,9 @@
+department_id,location,name
+DEPT-001,Remote,Engineering
+DEPT-002,Bengaluru,Human Resources
+DEPT-003,Remote,Finance
+DEPT-004,Bengaluru,IT
+DEPT-005,Hyderabad,Operations
+DEPT-006,Hyderabad,Marketing
+DEPT-007,Hyderabad,Sales
+DEPT-008,Hyderabad,Facilities

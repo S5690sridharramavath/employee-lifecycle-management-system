@@ -1,0 +1,9 @@
+depends_on_template_id,owner_role,template_id,title
+,HR,TMPL-001,Identity verification
+,HR,TMPL-002,Background check
+TMPL-001,IT,TMPL-003,Create company account
+TMPL-001,IT,TMPL-004,Configure laptop
+TMPL-003,IT,TMPL-005,Grant application access
+,Facilities,TMPL-006,Prepare workstation
+,Manager,TMPL-007,Manager introduction
+TMPL-002,HR,TMPL-008,Complete orientation

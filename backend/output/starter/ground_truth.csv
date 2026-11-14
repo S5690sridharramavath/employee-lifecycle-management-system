@@ -1,0 +1,8 @@
+entity_id,entity_type,expected_decision,issue_type
+TASK-ONB-000001-003,TaskInstance,Flag dependency violation,task_completed_before_prerequisite
+EMP-000001,Employee,Flag missing manager relationship,manager_missing
+AST-LAP-000002,Asset,Flag duplicate employee asset assignment,asset_assigned_twice
+EMP-000002,Employee,Flag start before background check completion,start_before_background_check
+ACCREQ-2026-000010,AccessRequest,Revoke access and create audit event,offboarding_active_access
+TASK-ONB-000001-001,TaskInstance,Flag SLA breach and escalate,overdue_task
+EMP-000003,Employee,Preserve department change history,department_changed_mid_process

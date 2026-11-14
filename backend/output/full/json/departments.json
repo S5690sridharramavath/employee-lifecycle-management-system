@@ -1,0 +1,42 @@
+[
+  {
+    "department_id": "DEPT-001",
+    "location": "Remote",
+    "name": "Engineering"
+  },
+  {
+    "department_id": "DEPT-002",
+    "location": "Bengaluru",
+    "name": "Human Resources"
+  },
+  {
+    "department_id": "DEPT-003",
+    "location": "Remote",
+    "name": "Finance"
+  },
+  {
+    "department_id": "DEPT-004",
+    "location": "Bengaluru",
+    "name": "IT"
+  },
+  {
+    "department_id": "DEPT-005",
+    "location": "Hyderabad",
+    "name": "Operations"
+  },
+  {
+    "department_id": "DEPT-006",
+    "location": "Hyderabad",
+    "name": "Marketing"
+  },
+  {
+    "department_id": "DEPT-007",
+    "location": "Hyderabad",
+    "name": "Sales"
+  },
+  {
+    "department_id": "DEPT-008",
+    "location": "Hyderabad",
+    "name": "Facilities"
+  }
+]

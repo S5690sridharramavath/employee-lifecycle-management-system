@@ -1,0 +1,302 @@
+[
+  {
+    "department_id": "DEPT-001",
+    "email": "manager1@example.com",
+    "manager_id": "MGR-000001",
+    "name": "Manager 001"
+  },
+  {
+    "department_id": "DEPT-002",
+    "email": "manager2@example.com",
+    "manager_id": "MGR-000002",
+    "name": "Manager 002"
+  },
+  {
+    "department_id": "DEPT-003",
+    "email": "manager3@example.com",
+    "manager_id": "MGR-000003",
+    "name": "Manager 003"
+  },
+  {
+    "department_id": "DEPT-004",
+    "email": "manager4@example.com",
+    "manager_id": "MGR-000004",
+    "name": "Manager 004"
+  },
+  {
+    "department_id": "DEPT-005",
+    "email": "manager5@example.com",
+    "manager_id": "MGR-000005",
+    "name": "Manager 005"
+  },
+  {
+    "department_id": "DEPT-006",
+    "email": "manager6@example.com",
+    "manager_id": "MGR-000006",
+    "name": "Manager 006"
+  },
+  {
+    "department_id": "DEPT-007",
+    "email": "manager7@example.com",
+    "manager_id": "MGR-000007",
+    "name": "Manager 007"
+  },
+  {
+    "department_id": "DEPT-008",
+    "email": "manager8@example.com",
+    "manager_id": "MGR-000008",
+    "name": "Manager 008"
+  },
+  {
+    "department_id": "DEPT-001",
+    "email": "manager9@example.com",
+    "manager_id": "MGR-000009",
+    "name": "Manager 009"
+  },
+  {
+    "department_id": "DEPT-002",
+    "email": "manager10@example.com",
+    "manager_id": "MGR-000010",
+    "name": "Manager 010"
+  },
+  {
+    "department_id": "DEPT-003",
+    "email": "manager11@example.com",
+    "manager_id": "MGR-000011",
+    "name": "Manager 011"
+  },
+  {
+    "department_id": "DEPT-004",
+    "email": "manager12@example.com",
+    "manager_id": "MGR-000012",
+    "name": "Manager 012"
+  },
+  {
+    "department_id": "DEPT-005",
+    "email": "manager13@example.com",
+    "manager_id": "MGR-000013",
+    "name": "Manager 013"
+  },
+  {
+    "department_id": "DEPT-006",
+    "email": "manager14@example.com",
+    "manager_id": "MGR-000014",
+    "name": "Manager 014"
+  },
+  {
+    "department_id": "DEPT-007",
+    "email": "manager15@example.com",
+    "manager_id": "MGR-000015",
+    "name": "Manager 015"
+  },
+  {
+    "department_id": "DEPT-008",
+    "email": "manager16@example.com",
+    "manager_id": "MGR-000016",
+    "name": "Manager 016"
+  },
+  {
+    "department_id": "DEPT-001",
+    "email": "manager17@example.com",
+    "manager_id": "MGR-000017",
+    "name": "Manager 017"
+  },
+  {
+    "department_id": "DEPT-002",
+    "email": "manager18@example.com",
+    "manager_id": "MGR-000018",
+    "name": "Manager 018"
+  },
+  {
+    "department_id": "DEPT-003",
+    "email": "manager19@example.com",
+    "manager_id": "MGR-000019",
+    "name": "Manager 019"
+  },
+  {
+    "department_id": "DEPT-004",
+    "email": "manager20@example.com",
+    "manager_id": "MGR-000020",
+    "name": "Manager 020"
+  },
+  {
+    "department_id": "DEPT-005",
+    "email": "manager21@example.com",
+    "manager_id": "MGR-000021",
+    "name": "Manager 021"
+  },
+  {
+    "department_id": "DEPT-006",
+    "email": "manager22@example.com",
+    "manager_id": "MGR-000022",
+    "name": "Manager 022"
+  },
+  {
+    "department_id": "DEPT-007",
+    "email": "manager23@example.com",
+    "manager_id": "MGR-000023",
+    "name": "Manager 023"
+  },
+  {
+    "department_id": "DEPT-008",
+    "email": "manager24@example.com",
+    "manager_id": "MGR-000024",
+    "name": "Manager 024"
+  },
+  {
+    "department_id": "DEPT-001",
+    "email": "manager25@example.com",
+    "manager_id": "MGR-000025",
+    "name": "Manager 025"
+  },
+  {
+    "department_id": "DEPT-002",
+    "email": "manager26@example.com",
+    "manager_id": "MGR-000026",
+    "name": "Manager 026"
+  },
+  {
+    "department_id": "DEPT-003",
+    "email": "manager27@example.com",
+    "manager_id": "MGR-000027",
+    "name": "Manager 027"
+  },
+  {
+    "department_id": "DEPT-004",
+    "email": "manager28@example.com",
+    "manager_id": "MGR-000028",
+    "name": "Manager 028"
+  },
+  {
+    "department_id": "DEPT-005",
+    "email": "manager29@example.com",
+    "manager_id": "MGR-000029",
+    "name": "Manager 029"
+  },
+  {
+    "department_id": "DEPT-006",
+    "email": "manager30@example.com",
+    "manager_id": "MGR-000030",
+    "name": "Manager 030"
+  },
+  {
+    "department_id": "DEPT-007",
+    "email": "manager31@example.com",
+    "manager_id": "MGR-000031",
+    "name": "Manager 031"
+  },
+  {
+    "department_id": "DEPT-008",
+    "email": "manager32@example.com",
+    "manager_id": "MGR-000032",
+    "name": "Manager 032"
+  },
+  {
+    "department_id": "DEPT-001",
+    "email": "manager33@example.com",
+    "manager_id": "MGR-000033",
+    "name": "Manager 033"
+  },
+  {
+    "department_id": "DEPT-002",
+    "email": "manager34@example.com",
+    "manager_id": "MGR-000034",
+    "name": "Manager 034"
+  },
+  {
+    "department_id": "DEPT-003",
+    "email": "manager35@example.com",
+    "manager_id": "MGR-000035",
+    "name": "Manager 035"
+  },
+  {
+    "department_id": "DEPT-004",
+    "email": "manager36@example.com",
+    "manager_id": "MGR-000036",
+    "name": "Manager 036"
+  },
+  {
+    "department_id": "DEPT-005",
+    "email": "manager37@example.com",
+    "manager_id": "MGR-000037",
+    "name": "Manager 037"
+  },
+  {
+    "department_id": "DEPT-006",
+    "email": "manager38@example.com",
+    "manager_id": "MGR-000038",
+    "name": "Manager 038"
+  },
+  {
+    "department_id": "DEPT-007",
+    "email": "manager39@example.com",
+    "manager_id": "MGR-000039",
+    "name": "Manager 039"
+  },
+  {
+    "department_id": "DEPT-008",
+    "email": "manager40@example.com",
+    "manager_id": "MGR-000040",
+    "name": "Manager 040"
+  },
+  {
+    "department_id": "DEPT-001",
+    "email": "manager41@example.com",
+    "manager_id": "MGR-000041",
+    "name": "Manager 041"
+  },
+  {
+    "department_id": "DEPT-002",
+    "email": "manager42@example.com",
+    "manager_id": "MGR-000042",
+    "name": "Manager 042"
+  },
+  {
+    "department_id": "DEPT-003",
+    "email": "manager43@example.com",
+    "manager_id": "MGR-000043",
+    "name": "Manager 043"
+  },
+  {
+    "department_id": "DEPT-004",
+    "email": "manager44@example.com",
+    "manager_id": "MGR-000044",
+    "name": "Manager 044"
+  },
+  {
+    "department_id": "DEPT-005",
+    "email": "manager45@example.com",
+    "manager_id": "MGR-000045",
+    "name": "Manager 045"
+  },
+  {
+    "department_id": "DEPT-006",
+    "email": "manager46@example.com",
+    "manager_id": "MGR-000046",
+    "name": "Manager 046"
+  },
+  {
+    "department_id": "DEPT-007",
+    "email": "manager47@example.com",
+    "manager_id": "MGR-000047",
+    "name": "Manager 047"
+  },
+  {
+    "department_id": "DEPT-008",
+    "email": "manager48@example.com",
+    "manager_id": "MGR-000048",
+    "name": "Manager 048"
+  },
+  {
+    "department_id": "DEPT-001",
+    "email": "manager49@example.com",
+    "manager_id": "MGR-000049",
+    "name": "Manager 049"
+  },
+  {
+    "department_id": "DEPT-002",
+    "email": "manager50@example.com",
+    "manager_id": "MGR-000050",
+    "name": "Manager 050"
+  }
+]

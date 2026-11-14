@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "employee_department_fk": true,
+    "employee_role_fk": true,
+    "employee_manager_fk_or_labelled_exception": true,
+    "onboarding_employee_fk": true,
+    "task_onboarding_fk": true,
+    "task_template_fk": true,
+    "task_dependency_fk": true,
+    "asset_employee_fk": true,
+    "access_employee_fk": true,
+    "approval_employee_fk": true,
+    "offboarding_employee_fk": true,
+    "access_approval_rule": true,
+    "seven_anomaly_types_present": true,
+    "dependency_graph_acyclic": true,
+    "required_baseline_volumes": true,
+    "terminated_active_access_exceptions_labelled": true
+  },
+  "passed": 16,
+  "total": 16,
+  "failed_checks": [],
+  "terminated_employees": 50,
+  "offboarding_cases": 50,
+  "active_access_for_terminated_employees": 1,
+  "overdue_open_tasks": 3000,
+  "labelled_anomalies": 7
+}

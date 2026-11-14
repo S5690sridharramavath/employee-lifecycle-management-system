@@ -1,0 +1,16 @@
+access_request_id,access_status,anomaly,approval_status,employee_id,requested_date,revoked_date,system_name
+ACCREQ-2026-000001,active,,approved,EMP-000001,2026-05-01,,HRMS
+ACCREQ-2026-000002,not_provisioned,,approved,EMP-000002,2026-10-07,,GitHub
+ACCREQ-2026-000003,not_provisioned,,approved,EMP-000003,2026-01-31,,VPN
+ACCREQ-2026-000004,not_provisioned,,pending,EMP-000004,2026-04-10,,CRM
+ACCREQ-2026-000005,active,,approved,EMP-000005,2026-02-24,,Email
+ACCREQ-2026-000006,not_provisioned,,approved,EMP-000006,2026-04-10,,HRMS
+ACCREQ-2026-000007,not_provisioned,,approved,EMP-000007,2026-09-18,,GitHub
+ACCREQ-2026-000008,not_provisioned,,pending,EMP-000008,2026-04-21,,VPN
+ACCREQ-2026-000009,active,,approved,EMP-000009,2026-08-19,,CRM
+ACCREQ-2026-000010,active,active_access_after_termination,approved,EMP-000010,2026-02-28,,Email
+ACCREQ-2026-000011,not_provisioned,,approved,EMP-000011,2026-03-14,,HRMS
+ACCREQ-2026-000012,not_provisioned,,pending,EMP-000012,2026-06-28,,GitHub
+ACCREQ-2026-000013,active,,approved,EMP-000013,2026-01-30,,VPN
+ACCREQ-2026-000014,not_provisioned,,approved,EMP-000014,2026-03-17,,CRM
+ACCREQ-2026-000015,not_provisioned,,approved,EMP-000015,2026-08-23,,Email

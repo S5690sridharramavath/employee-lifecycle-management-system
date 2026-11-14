@@ -1,0 +1,74 @@
+[
+  {
+    "department_id": "DEPT-001",
+    "employment_type": "permanent",
+    "role_id": "ROLE-001",
+    "title": "Software Engineer"
+  },
+  {
+    "department_id": "DEPT-002",
+    "employment_type": "permanent",
+    "role_id": "ROLE-002",
+    "title": "Senior Software Engineer"
+  },
+  {
+    "department_id": "DEPT-003",
+    "employment_type": "contractor",
+    "role_id": "ROLE-003",
+    "title": "Data Analyst"
+  },
+  {
+    "department_id": "DEPT-004",
+    "employment_type": "permanent",
+    "role_id": "ROLE-004",
+    "title": "Data Scientist"
+  },
+  {
+    "department_id": "DEPT-005",
+    "employment_type": "permanent",
+    "role_id": "ROLE-005",
+    "title": "HR Executive"
+  },
+  {
+    "department_id": "DEPT-006",
+    "employment_type": "contractor",
+    "role_id": "ROLE-006",
+    "title": "IT Support Engineer"
+  },
+  {
+    "department_id": "DEPT-007",
+    "employment_type": "permanent",
+    "role_id": "ROLE-007",
+    "title": "Finance Analyst"
+  },
+  {
+    "department_id": "DEPT-008",
+    "employment_type": "permanent",
+    "role_id": "ROLE-008",
+    "title": "Product Manager"
+  },
+  {
+    "department_id": "DEPT-001",
+    "employment_type": "contractor",
+    "role_id": "ROLE-009",
+    "title": "QA Engineer"
+  },
+  {
+    "department_id": "DEPT-002",
+    "employment_type": "permanent",
+    "role_id": "ROLE-010",
+    "title": "DevOps Engineer"
+  },
+  {
+    "department_id": "DEPT-003",
+    "employment_type": "permanent",
+    "role_id": "ROLE-011",
+    "title": "Sales Executive"
+  },
+  {
+    "department_id": "DEPT-004",
+    "employment_type": "contractor",
+    "role_id": "ROLE-012",
+    "title": "Facilities Coordinator"
+  }
+]

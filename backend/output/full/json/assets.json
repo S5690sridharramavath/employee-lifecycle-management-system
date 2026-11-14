@@ -1,0 +1,6002 @@
+[
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000001",
+    "asset_tag": "AST-LAP-000001",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000001",
+    "purchase_date": "2026-01-02",
+    "serial_number": "SERIAL-000001",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "duplicate_asset_assignment",
+    "asset_id": "AST-LAP-000002",
+    "asset_tag": "AST-LAP-000002",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000001",
+    "purchase_date": "2026-01-03",
+    "serial_number": "SERIAL-000002",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000003",
+    "asset_tag": "AST-LAP-000003",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000003",
+    "purchase_date": "2026-01-04",
+    "serial_number": "SERIAL-000003",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000004",
+    "asset_tag": "AST-LAP-000004",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000004",
+    "purchase_date": "2026-01-05",
+    "serial_number": "SERIAL-000004",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000005",
+    "asset_tag": "AST-LAP-000005",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-06",
+    "serial_number": "SERIAL-000005",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000006",
+    "asset_tag": "AST-LAP-000006",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000006",
+    "purchase_date": "2026-01-07",
+    "serial_number": "SERIAL-000006",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000007",
+    "asset_tag": "AST-LAP-000007",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000007",
+    "purchase_date": "2026-01-08",
+    "serial_number": "SERIAL-000007",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000008",
+    "asset_tag": "AST-LAP-000008",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000008",
+    "purchase_date": "2026-01-09",
+    "serial_number": "SERIAL-000008",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000009",
+    "asset_tag": "AST-LAP-000009",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000009",
+    "purchase_date": "2026-01-10",
+    "serial_number": "SERIAL-000009",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000010",
+    "asset_tag": "AST-LAP-000010",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-11",
+    "serial_number": "SERIAL-000010",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000011",
+    "asset_tag": "AST-LAP-000011",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000011",
+    "purchase_date": "2026-01-12",
+    "serial_number": "SERIAL-000011",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000012",
+    "asset_tag": "AST-LAP-000012",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000012",
+    "purchase_date": "2026-01-13",
+    "serial_number": "SERIAL-000012",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000013",
+    "asset_tag": "AST-LAP-000013",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000013",
+    "purchase_date": "2026-01-14",
+    "serial_number": "SERIAL-000013",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000014",
+    "asset_tag": "AST-LAP-000014",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000014",
+    "purchase_date": "2026-01-15",
+    "serial_number": "SERIAL-000014",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000015",
+    "asset_tag": "AST-LAP-000015",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-16",
+    "serial_number": "SERIAL-000015",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000016",
+    "asset_tag": "AST-LAP-000016",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000016",
+    "purchase_date": "2026-01-17",
+    "serial_number": "SERIAL-000016",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000017",
+    "asset_tag": "AST-LAP-000017",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000017",
+    "purchase_date": "2026-01-18",
+    "serial_number": "SERIAL-000017",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000018",
+    "asset_tag": "AST-LAP-000018",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000018",
+    "purchase_date": "2026-01-19",
+    "serial_number": "SERIAL-000018",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000019",
+    "asset_tag": "AST-LAP-000019",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000019",
+    "purchase_date": "2026-01-20",
+    "serial_number": "SERIAL-000019",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000020",
+    "asset_tag": "AST-LAP-000020",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-21",
+    "serial_number": "SERIAL-000020",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000021",
+    "asset_tag": "AST-LAP-000021",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000021",
+    "purchase_date": "2026-01-22",
+    "serial_number": "SERIAL-000021",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000022",
+    "asset_tag": "AST-LAP-000022",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000022",
+    "purchase_date": "2026-01-23",
+    "serial_number": "SERIAL-000022",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000023",
+    "asset_tag": "AST-LAP-000023",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000023",
+    "purchase_date": "2026-01-24",
+    "serial_number": "SERIAL-000023",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000024",
+    "asset_tag": "AST-LAP-000024",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000024",
+    "purchase_date": "2026-01-25",
+    "serial_number": "SERIAL-000024",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000025",
+    "asset_tag": "AST-LAP-000025",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-26",
+    "serial_number": "SERIAL-000025",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000026",
+    "asset_tag": "AST-LAP-000026",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000026",
+    "purchase_date": "2026-01-27",
+    "serial_number": "SERIAL-000026",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000027",
+    "asset_tag": "AST-LAP-000027",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000027",
+    "purchase_date": "2026-01-28",
+    "serial_number": "SERIAL-000027",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000028",
+    "asset_tag": "AST-LAP-000028",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000028",
+    "purchase_date": "2026-01-29",
+    "serial_number": "SERIAL-000028",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000029",
+    "asset_tag": "AST-LAP-000029",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000029",
+    "purchase_date": "2026-01-30",
+    "serial_number": "SERIAL-000029",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000030",
+    "asset_tag": "AST-LAP-000030",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-31",
+    "serial_number": "SERIAL-000030",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000031",
+    "asset_tag": "AST-LAP-000031",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000031",
+    "purchase_date": "2026-02-01",
+    "serial_number": "SERIAL-000031",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000032",
+    "asset_tag": "AST-LAP-000032",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000032",
+    "purchase_date": "2026-02-02",
+    "serial_number": "SERIAL-000032",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000033",
+    "asset_tag": "AST-LAP-000033",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000033",
+    "purchase_date": "2026-02-03",
+    "serial_number": "SERIAL-000033",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000034",
+    "asset_tag": "AST-LAP-000034",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000034",
+    "purchase_date": "2026-02-04",
+    "serial_number": "SERIAL-000034",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000035",
+    "asset_tag": "AST-LAP-000035",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-02-05",
+    "serial_number": "SERIAL-000035",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000036",
+    "asset_tag": "AST-LAP-000036",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000036",
+    "purchase_date": "2026-02-06",
+    "serial_number": "SERIAL-000036",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000037",
+    "asset_tag": "AST-LAP-000037",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000037",
+    "purchase_date": "2026-02-07",
+    "serial_number": "SERIAL-000037",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000038",
+    "asset_tag": "AST-LAP-000038",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000038",
+    "purchase_date": "2026-02-08",
+    "serial_number": "SERIAL-000038",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000039",
+    "asset_tag": "AST-LAP-000039",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000039",
+    "purchase_date": "2026-02-09",
+    "serial_number": "SERIAL-000039",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000040",
+    "asset_tag": "AST-LAP-000040",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-02-10",
+    "serial_number": "SERIAL-000040",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000041",
+    "asset_tag": "AST-LAP-000041",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000041",
+    "purchase_date": "2026-02-11",
+    "serial_number": "SERIAL-000041",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000042",
+    "asset_tag": "AST-LAP-000042",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000042",
+    "purchase_date": "2026-02-12",
+    "serial_number": "SERIAL-000042",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000043",
+    "asset_tag": "AST-LAP-000043",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000043",
+    "purchase_date": "2026-02-13",
+    "serial_number": "SERIAL-000043",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000044",
+    "asset_tag": "AST-LAP-000044",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000044",
+    "purchase_date": "2026-02-14",
+    "serial_number": "SERIAL-000044",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000045",
+    "asset_tag": "AST-LAP-000045",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-02-15",
+    "serial_number": "SERIAL-000045",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000046",
+    "asset_tag": "AST-LAP-000046",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000046",
+    "purchase_date": "2026-02-16",
+    "serial_number": "SERIAL-000046",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000047",
+    "asset_tag": "AST-LAP-000047",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000047",
+    "purchase_date": "2026-02-17",
+    "serial_number": "SERIAL-000047",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000048",
+    "asset_tag": "AST-LAP-000048",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000048",
+    "purchase_date": "2026-02-18",
+    "serial_number": "SERIAL-000048",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000049",
+    "asset_tag": "AST-LAP-000049",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000049",
+    "purchase_date": "2026-02-19",
+    "serial_number": "SERIAL-000049",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000050",
+    "asset_tag": "AST-LAP-000050",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-02-20",
+    "serial_number": "SERIAL-000050",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000051",
+    "asset_tag": "AST-LAP-000051",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000051",
+    "purchase_date": "2026-02-21",
+    "serial_number": "SERIAL-000051",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000052",
+    "asset_tag": "AST-LAP-000052",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000052",
+    "purchase_date": "2026-02-22",
+    "serial_number": "SERIAL-000052",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000053",
+    "asset_tag": "AST-LAP-000053",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000053",
+    "purchase_date": "2026-02-23",
+    "serial_number": "SERIAL-000053",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000054",
+    "asset_tag": "AST-LAP-000054",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000054",
+    "purchase_date": "2026-02-24",
+    "serial_number": "SERIAL-000054",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000055",
+    "asset_tag": "AST-LAP-000055",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-02-25",
+    "serial_number": "SERIAL-000055",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000056",
+    "asset_tag": "AST-LAP-000056",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000056",
+    "purchase_date": "2026-02-26",
+    "serial_number": "SERIAL-000056",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000057",
+    "asset_tag": "AST-LAP-000057",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000057",
+    "purchase_date": "2026-02-27",
+    "serial_number": "SERIAL-000057",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000058",
+    "asset_tag": "AST-LAP-000058",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000058",
+    "purchase_date": "2026-02-28",
+    "serial_number": "SERIAL-000058",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000059",
+    "asset_tag": "AST-LAP-000059",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000059",
+    "purchase_date": "2026-03-01",
+    "serial_number": "SERIAL-000059",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000060",
+    "asset_tag": "AST-LAP-000060",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-03-02",
+    "serial_number": "SERIAL-000060",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000061",
+    "asset_tag": "AST-LAP-000061",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000061",
+    "purchase_date": "2026-03-03",
+    "serial_number": "SERIAL-000061",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000062",
+    "asset_tag": "AST-LAP-000062",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000062",
+    "purchase_date": "2026-03-04",
+    "serial_number": "SERIAL-000062",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000063",
+    "asset_tag": "AST-LAP-000063",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000063",
+    "purchase_date": "2026-03-05",
+    "serial_number": "SERIAL-000063",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000064",
+    "asset_tag": "AST-LAP-000064",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000064",
+    "purchase_date": "2026-03-06",
+    "serial_number": "SERIAL-000064",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000065",
+    "asset_tag": "AST-LAP-000065",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-03-07",
+    "serial_number": "SERIAL-000065",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000066",
+    "asset_tag": "AST-LAP-000066",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000066",
+    "purchase_date": "2026-03-08",
+    "serial_number": "SERIAL-000066",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000067",
+    "asset_tag": "AST-LAP-000067",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000067",
+    "purchase_date": "2026-03-09",
+    "serial_number": "SERIAL-000067",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000068",
+    "asset_tag": "AST-LAP-000068",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000068",
+    "purchase_date": "2026-03-10",
+    "serial_number": "SERIAL-000068",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000069",
+    "asset_tag": "AST-LAP-000069",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000069",
+    "purchase_date": "2026-03-11",
+    "serial_number": "SERIAL-000069",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000070",
+    "asset_tag": "AST-LAP-000070",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-03-12",
+    "serial_number": "SERIAL-000070",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000071",
+    "asset_tag": "AST-LAP-000071",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000071",
+    "purchase_date": "2026-03-13",
+    "serial_number": "SERIAL-000071",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000072",
+    "asset_tag": "AST-LAP-000072",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000072",
+    "purchase_date": "2026-03-14",
+    "serial_number": "SERIAL-000072",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000073",
+    "asset_tag": "AST-LAP-000073",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000073",
+    "purchase_date": "2026-03-15",
+    "serial_number": "SERIAL-000073",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000074",
+    "asset_tag": "AST-LAP-000074",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000074",
+    "purchase_date": "2026-03-16",
+    "serial_number": "SERIAL-000074",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000075",
+    "asset_tag": "AST-LAP-000075",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-03-17",
+    "serial_number": "SERIAL-000075",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000076",
+    "asset_tag": "AST-LAP-000076",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000076",
+    "purchase_date": "2026-03-18",
+    "serial_number": "SERIAL-000076",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000077",
+    "asset_tag": "AST-LAP-000077",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000077",
+    "purchase_date": "2026-03-19",
+    "serial_number": "SERIAL-000077",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000078",
+    "asset_tag": "AST-LAP-000078",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000078",
+    "purchase_date": "2026-03-20",
+    "serial_number": "SERIAL-000078",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000079",
+    "asset_tag": "AST-LAP-000079",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000079",
+    "purchase_date": "2026-03-21",
+    "serial_number": "SERIAL-000079",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000080",
+    "asset_tag": "AST-LAP-000080",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-03-22",
+    "serial_number": "SERIAL-000080",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000081",
+    "asset_tag": "AST-LAP-000081",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000081",
+    "purchase_date": "2026-03-23",
+    "serial_number": "SERIAL-000081",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000082",
+    "asset_tag": "AST-LAP-000082",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000082",
+    "purchase_date": "2026-03-24",
+    "serial_number": "SERIAL-000082",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000083",
+    "asset_tag": "AST-LAP-000083",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000083",
+    "purchase_date": "2026-03-25",
+    "serial_number": "SERIAL-000083",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000084",
+    "asset_tag": "AST-LAP-000084",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000084",
+    "purchase_date": "2026-03-26",
+    "serial_number": "SERIAL-000084",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000085",
+    "asset_tag": "AST-LAP-000085",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-03-27",
+    "serial_number": "SERIAL-000085",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000086",
+    "asset_tag": "AST-LAP-000086",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000086",
+    "purchase_date": "2026-03-28",
+    "serial_number": "SERIAL-000086",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000087",
+    "asset_tag": "AST-LAP-000087",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000087",
+    "purchase_date": "2026-03-29",
+    "serial_number": "SERIAL-000087",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000088",
+    "asset_tag": "AST-LAP-000088",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000088",
+    "purchase_date": "2026-03-30",
+    "serial_number": "SERIAL-000088",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000089",
+    "asset_tag": "AST-LAP-000089",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000089",
+    "purchase_date": "2026-03-31",
+    "serial_number": "SERIAL-000089",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000090",
+    "asset_tag": "AST-LAP-000090",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-04-01",
+    "serial_number": "SERIAL-000090",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000091",
+    "asset_tag": "AST-LAP-000091",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000091",
+    "purchase_date": "2026-04-02",
+    "serial_number": "SERIAL-000091",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000092",
+    "asset_tag": "AST-LAP-000092",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000092",
+    "purchase_date": "2026-04-03",
+    "serial_number": "SERIAL-000092",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000093",
+    "asset_tag": "AST-LAP-000093",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000093",
+    "purchase_date": "2026-04-04",
+    "serial_number": "SERIAL-000093",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000094",
+    "asset_tag": "AST-LAP-000094",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000094",
+    "purchase_date": "2026-04-05",
+    "serial_number": "SERIAL-000094",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000095",
+    "asset_tag": "AST-LAP-000095",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-04-06",
+    "serial_number": "SERIAL-000095",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000096",
+    "asset_tag": "AST-LAP-000096",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000096",
+    "purchase_date": "2026-04-07",
+    "serial_number": "SERIAL-000096",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000097",
+    "asset_tag": "AST-LAP-000097",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000097",
+    "purchase_date": "2026-04-08",
+    "serial_number": "SERIAL-000097",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000098",
+    "asset_tag": "AST-LAP-000098",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000098",
+    "purchase_date": "2026-04-09",
+    "serial_number": "SERIAL-000098",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000099",
+    "asset_tag": "AST-LAP-000099",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000099",
+    "purchase_date": "2026-04-10",
+    "serial_number": "SERIAL-000099",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000100",
+    "asset_tag": "AST-LAP-000100",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-04-11",
+    "serial_number": "SERIAL-000100",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000101",
+    "asset_tag": "AST-LAP-000101",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000101",
+    "purchase_date": "2026-04-12",
+    "serial_number": "SERIAL-000101",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000102",
+    "asset_tag": "AST-LAP-000102",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000102",
+    "purchase_date": "2026-04-13",
+    "serial_number": "SERIAL-000102",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000103",
+    "asset_tag": "AST-LAP-000103",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000103",
+    "purchase_date": "2026-04-14",
+    "serial_number": "SERIAL-000103",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000104",
+    "asset_tag": "AST-LAP-000104",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000104",
+    "purchase_date": "2026-04-15",
+    "serial_number": "SERIAL-000104",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000105",
+    "asset_tag": "AST-LAP-000105",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-04-16",
+    "serial_number": "SERIAL-000105",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000106",
+    "asset_tag": "AST-LAP-000106",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000106",
+    "purchase_date": "2026-04-17",
+    "serial_number": "SERIAL-000106",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000107",
+    "asset_tag": "AST-LAP-000107",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000107",
+    "purchase_date": "2026-04-18",
+    "serial_number": "SERIAL-000107",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000108",
+    "asset_tag": "AST-LAP-000108",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000108",
+    "purchase_date": "2026-04-19",
+    "serial_number": "SERIAL-000108",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000109",
+    "asset_tag": "AST-LAP-000109",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000109",
+    "purchase_date": "2026-04-20",
+    "serial_number": "SERIAL-000109",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000110",
+    "asset_tag": "AST-LAP-000110",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-04-21",
+    "serial_number": "SERIAL-000110",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000111",
+    "asset_tag": "AST-LAP-000111",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000111",
+    "purchase_date": "2026-04-22",
+    "serial_number": "SERIAL-000111",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000112",
+    "asset_tag": "AST-LAP-000112",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000112",
+    "purchase_date": "2026-04-23",
+    "serial_number": "SERIAL-000112",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000113",
+    "asset_tag": "AST-LAP-000113",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000113",
+    "purchase_date": "2026-04-24",
+    "serial_number": "SERIAL-000113",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000114",
+    "asset_tag": "AST-LAP-000114",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000114",
+    "purchase_date": "2026-04-25",
+    "serial_number": "SERIAL-000114",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000115",
+    "asset_tag": "AST-LAP-000115",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-04-26",
+    "serial_number": "SERIAL-000115",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000116",
+    "asset_tag": "AST-LAP-000116",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000116",
+    "purchase_date": "2026-04-27",
+    "serial_number": "SERIAL-000116",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000117",
+    "asset_tag": "AST-LAP-000117",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000117",
+    "purchase_date": "2026-04-28",
+    "serial_number": "SERIAL-000117",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000118",
+    "asset_tag": "AST-LAP-000118",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000118",
+    "purchase_date": "2026-04-29",
+    "serial_number": "SERIAL-000118",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000119",
+    "asset_tag": "AST-LAP-000119",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000119",
+    "purchase_date": "2026-04-30",
+    "serial_number": "SERIAL-000119",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000120",
+    "asset_tag": "AST-LAP-000120",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-01",
+    "serial_number": "SERIAL-000120",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000121",
+    "asset_tag": "AST-LAP-000121",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000121",
+    "purchase_date": "2026-05-02",
+    "serial_number": "SERIAL-000121",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000122",
+    "asset_tag": "AST-LAP-000122",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000122",
+    "purchase_date": "2026-05-03",
+    "serial_number": "SERIAL-000122",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000123",
+    "asset_tag": "AST-LAP-000123",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000123",
+    "purchase_date": "2026-05-04",
+    "serial_number": "SERIAL-000123",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000124",
+    "asset_tag": "AST-LAP-000124",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000124",
+    "purchase_date": "2026-05-05",
+    "serial_number": "SERIAL-000124",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000125",
+    "asset_tag": "AST-LAP-000125",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-06",
+    "serial_number": "SERIAL-000125",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000126",
+    "asset_tag": "AST-LAP-000126",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000126",
+    "purchase_date": "2026-05-07",
+    "serial_number": "SERIAL-000126",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000127",
+    "asset_tag": "AST-LAP-000127",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000127",
+    "purchase_date": "2026-05-08",
+    "serial_number": "SERIAL-000127",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000128",
+    "asset_tag": "AST-LAP-000128",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000128",
+    "purchase_date": "2026-05-09",
+    "serial_number": "SERIAL-000128",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000129",
+    "asset_tag": "AST-LAP-000129",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000129",
+    "purchase_date": "2026-05-10",
+    "serial_number": "SERIAL-000129",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000130",
+    "asset_tag": "AST-LAP-000130",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-11",
+    "serial_number": "SERIAL-000130",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000131",
+    "asset_tag": "AST-LAP-000131",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000131",
+    "purchase_date": "2026-05-12",
+    "serial_number": "SERIAL-000131",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000132",
+    "asset_tag": "AST-LAP-000132",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000132",
+    "purchase_date": "2026-05-13",
+    "serial_number": "SERIAL-000132",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000133",
+    "asset_tag": "AST-LAP-000133",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000133",
+    "purchase_date": "2026-05-14",
+    "serial_number": "SERIAL-000133",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000134",
+    "asset_tag": "AST-LAP-000134",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000134",
+    "purchase_date": "2026-05-15",
+    "serial_number": "SERIAL-000134",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000135",
+    "asset_tag": "AST-LAP-000135",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-16",
+    "serial_number": "SERIAL-000135",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000136",
+    "asset_tag": "AST-LAP-000136",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000136",
+    "purchase_date": "2026-05-17",
+    "serial_number": "SERIAL-000136",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000137",
+    "asset_tag": "AST-LAP-000137",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000137",
+    "purchase_date": "2026-05-18",
+    "serial_number": "SERIAL-000137",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000138",
+    "asset_tag": "AST-LAP-000138",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000138",
+    "purchase_date": "2026-05-19",
+    "serial_number": "SERIAL-000138",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000139",
+    "asset_tag": "AST-LAP-000139",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000139",
+    "purchase_date": "2026-05-20",
+    "serial_number": "SERIAL-000139",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000140",
+    "asset_tag": "AST-LAP-000140",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-21",
+    "serial_number": "SERIAL-000140",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000141",
+    "asset_tag": "AST-LAP-000141",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000141",
+    "purchase_date": "2026-05-22",
+    "serial_number": "SERIAL-000141",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000142",
+    "asset_tag": "AST-LAP-000142",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000142",
+    "purchase_date": "2026-05-23",
+    "serial_number": "SERIAL-000142",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000143",
+    "asset_tag": "AST-LAP-000143",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000143",
+    "purchase_date": "2026-05-24",
+    "serial_number": "SERIAL-000143",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000144",
+    "asset_tag": "AST-LAP-000144",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000144",
+    "purchase_date": "2026-05-25",
+    "serial_number": "SERIAL-000144",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000145",
+    "asset_tag": "AST-LAP-000145",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-26",
+    "serial_number": "SERIAL-000145",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000146",
+    "asset_tag": "AST-LAP-000146",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000146",
+    "purchase_date": "2026-05-27",
+    "serial_number": "SERIAL-000146",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000147",
+    "asset_tag": "AST-LAP-000147",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000147",
+    "purchase_date": "2026-05-28",
+    "serial_number": "SERIAL-000147",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000148",
+    "asset_tag": "AST-LAP-000148",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000148",
+    "purchase_date": "2026-05-29",
+    "serial_number": "SERIAL-000148",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000149",
+    "asset_tag": "AST-LAP-000149",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000149",
+    "purchase_date": "2026-05-30",
+    "serial_number": "SERIAL-000149",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000150",
+    "asset_tag": "AST-LAP-000150",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-31",
+    "serial_number": "SERIAL-000150",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000151",
+    "asset_tag": "AST-LAP-000151",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000151",
+    "purchase_date": "2026-06-01",
+    "serial_number": "SERIAL-000151",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000152",
+    "asset_tag": "AST-LAP-000152",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000152",
+    "purchase_date": "2026-06-02",
+    "serial_number": "SERIAL-000152",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000153",
+    "asset_tag": "AST-LAP-000153",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000153",
+    "purchase_date": "2026-06-03",
+    "serial_number": "SERIAL-000153",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000154",
+    "asset_tag": "AST-LAP-000154",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000154",
+    "purchase_date": "2026-06-04",
+    "serial_number": "SERIAL-000154",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000155",
+    "asset_tag": "AST-LAP-000155",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-06-05",
+    "serial_number": "SERIAL-000155",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000156",
+    "asset_tag": "AST-LAP-000156",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000156",
+    "purchase_date": "2026-06-06",
+    "serial_number": "SERIAL-000156",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000157",
+    "asset_tag": "AST-LAP-000157",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000157",
+    "purchase_date": "2026-06-07",
+    "serial_number": "SERIAL-000157",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000158",
+    "asset_tag": "AST-LAP-000158",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000158",
+    "purchase_date": "2026-06-08",
+    "serial_number": "SERIAL-000158",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000159",
+    "asset_tag": "AST-LAP-000159",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000159",
+    "purchase_date": "2026-06-09",
+    "serial_number": "SERIAL-000159",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000160",
+    "asset_tag": "AST-LAP-000160",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-06-10",
+    "serial_number": "SERIAL-000160",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000161",
+    "asset_tag": "AST-LAP-000161",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000161",
+    "purchase_date": "2026-06-11",
+    "serial_number": "SERIAL-000161",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000162",
+    "asset_tag": "AST-LAP-000162",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000162",
+    "purchase_date": "2026-06-12",
+    "serial_number": "SERIAL-000162",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000163",
+    "asset_tag": "AST-LAP-000163",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000163",
+    "purchase_date": "2026-06-13",
+    "serial_number": "SERIAL-000163",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000164",
+    "asset_tag": "AST-LAP-000164",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000164",
+    "purchase_date": "2026-06-14",
+    "serial_number": "SERIAL-000164",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000165",
+    "asset_tag": "AST-LAP-000165",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-06-15",
+    "serial_number": "SERIAL-000165",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000166",
+    "asset_tag": "AST-LAP-000166",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000166",
+    "purchase_date": "2026-06-16",
+    "serial_number": "SERIAL-000166",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000167",
+    "asset_tag": "AST-LAP-000167",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000167",
+    "purchase_date": "2026-06-17",
+    "serial_number": "SERIAL-000167",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000168",
+    "asset_tag": "AST-LAP-000168",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000168",
+    "purchase_date": "2026-06-18",
+    "serial_number": "SERIAL-000168",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000169",
+    "asset_tag": "AST-LAP-000169",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000169",
+    "purchase_date": "2026-06-19",
+    "serial_number": "SERIAL-000169",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000170",
+    "asset_tag": "AST-LAP-000170",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-06-20",
+    "serial_number": "SERIAL-000170",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000171",
+    "asset_tag": "AST-LAP-000171",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000171",
+    "purchase_date": "2026-06-21",
+    "serial_number": "SERIAL-000171",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000172",
+    "asset_tag": "AST-LAP-000172",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000172",
+    "purchase_date": "2026-06-22",
+    "serial_number": "SERIAL-000172",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000173",
+    "asset_tag": "AST-LAP-000173",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000173",
+    "purchase_date": "2026-06-23",
+    "serial_number": "SERIAL-000173",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000174",
+    "asset_tag": "AST-LAP-000174",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000174",
+    "purchase_date": "2026-06-24",
+    "serial_number": "SERIAL-000174",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000175",
+    "asset_tag": "AST-LAP-000175",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-06-25",
+    "serial_number": "SERIAL-000175",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000176",
+    "asset_tag": "AST-LAP-000176",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000176",
+    "purchase_date": "2026-06-26",
+    "serial_number": "SERIAL-000176",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000177",
+    "asset_tag": "AST-LAP-000177",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000177",
+    "purchase_date": "2026-06-27",
+    "serial_number": "SERIAL-000177",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000178",
+    "asset_tag": "AST-LAP-000178",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000178",
+    "purchase_date": "2026-06-28",
+    "serial_number": "SERIAL-000178",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000179",
+    "asset_tag": "AST-LAP-000179",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000179",
+    "purchase_date": "2026-06-29",
+    "serial_number": "SERIAL-000179",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000180",
+    "asset_tag": "AST-LAP-000180",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-06-30",
+    "serial_number": "SERIAL-000180",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000181",
+    "asset_tag": "AST-LAP-000181",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000181",
+    "purchase_date": "2026-07-01",
+    "serial_number": "SERIAL-000181",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000182",
+    "asset_tag": "AST-LAP-000182",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000182",
+    "purchase_date": "2026-07-02",
+    "serial_number": "SERIAL-000182",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000183",
+    "asset_tag": "AST-LAP-000183",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000183",
+    "purchase_date": "2026-07-03",
+    "serial_number": "SERIAL-000183",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000184",
+    "asset_tag": "AST-LAP-000184",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000184",
+    "purchase_date": "2026-07-04",
+    "serial_number": "SERIAL-000184",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000185",
+    "asset_tag": "AST-LAP-000185",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-07-05",
+    "serial_number": "SERIAL-000185",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000186",
+    "asset_tag": "AST-LAP-000186",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000186",
+    "purchase_date": "2026-07-06",
+    "serial_number": "SERIAL-000186",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000187",
+    "asset_tag": "AST-LAP-000187",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000187",
+    "purchase_date": "2026-07-07",
+    "serial_number": "SERIAL-000187",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000188",
+    "asset_tag": "AST-LAP-000188",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000188",
+    "purchase_date": "2026-07-08",
+    "serial_number": "SERIAL-000188",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000189",
+    "asset_tag": "AST-LAP-000189",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000189",
+    "purchase_date": "2026-07-09",
+    "serial_number": "SERIAL-000189",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000190",
+    "asset_tag": "AST-LAP-000190",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-07-10",
+    "serial_number": "SERIAL-000190",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000191",
+    "asset_tag": "AST-LAP-000191",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000191",
+    "purchase_date": "2026-07-11",
+    "serial_number": "SERIAL-000191",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000192",
+    "asset_tag": "AST-LAP-000192",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000192",
+    "purchase_date": "2026-07-12",
+    "serial_number": "SERIAL-000192",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000193",
+    "asset_tag": "AST-LAP-000193",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000193",
+    "purchase_date": "2026-07-13",
+    "serial_number": "SERIAL-000193",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000194",
+    "asset_tag": "AST-LAP-000194",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000194",
+    "purchase_date": "2026-07-14",
+    "serial_number": "SERIAL-000194",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000195",
+    "asset_tag": "AST-LAP-000195",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-07-15",
+    "serial_number": "SERIAL-000195",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000196",
+    "asset_tag": "AST-LAP-000196",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000196",
+    "purchase_date": "2026-07-16",
+    "serial_number": "SERIAL-000196",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000197",
+    "asset_tag": "AST-LAP-000197",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000197",
+    "purchase_date": "2026-07-17",
+    "serial_number": "SERIAL-000197",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000198",
+    "asset_tag": "AST-LAP-000198",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000198",
+    "purchase_date": "2026-07-18",
+    "serial_number": "SERIAL-000198",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000199",
+    "asset_tag": "AST-LAP-000199",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000199",
+    "purchase_date": "2026-07-19",
+    "serial_number": "SERIAL-000199",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000200",
+    "asset_tag": "AST-LAP-000200",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-01",
+    "serial_number": "SERIAL-000200",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000201",
+    "asset_tag": "AST-LAP-000201",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000201",
+    "purchase_date": "2026-01-02",
+    "serial_number": "SERIAL-000201",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000202",
+    "asset_tag": "AST-LAP-000202",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000202",
+    "purchase_date": "2026-01-03",
+    "serial_number": "SERIAL-000202",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000203",
+    "asset_tag": "AST-LAP-000203",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000203",
+    "purchase_date": "2026-01-04",
+    "serial_number": "SERIAL-000203",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000204",
+    "asset_tag": "AST-LAP-000204",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000204",
+    "purchase_date": "2026-01-05",
+    "serial_number": "SERIAL-000204",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000205",
+    "asset_tag": "AST-LAP-000205",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-06",
+    "serial_number": "SERIAL-000205",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000206",
+    "asset_tag": "AST-LAP-000206",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000206",
+    "purchase_date": "2026-01-07",
+    "serial_number": "SERIAL-000206",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000207",
+    "asset_tag": "AST-LAP-000207",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000207",
+    "purchase_date": "2026-01-08",
+    "serial_number": "SERIAL-000207",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000208",
+    "asset_tag": "AST-LAP-000208",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000208",
+    "purchase_date": "2026-01-09",
+    "serial_number": "SERIAL-000208",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000209",
+    "asset_tag": "AST-LAP-000209",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000209",
+    "purchase_date": "2026-01-10",
+    "serial_number": "SERIAL-000209",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000210",
+    "asset_tag": "AST-LAP-000210",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-11",
+    "serial_number": "SERIAL-000210",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000211",
+    "asset_tag": "AST-LAP-000211",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000211",
+    "purchase_date": "2026-01-12",
+    "serial_number": "SERIAL-000211",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000212",
+    "asset_tag": "AST-LAP-000212",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000212",
+    "purchase_date": "2026-01-13",
+    "serial_number": "SERIAL-000212",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000213",
+    "asset_tag": "AST-LAP-000213",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000213",
+    "purchase_date": "2026-01-14",
+    "serial_number": "SERIAL-000213",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000214",
+    "asset_tag": "AST-LAP-000214",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000214",
+    "purchase_date": "2026-01-15",
+    "serial_number": "SERIAL-000214",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000215",
+    "asset_tag": "AST-LAP-000215",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-16",
+    "serial_number": "SERIAL-000215",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000216",
+    "asset_tag": "AST-LAP-000216",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000216",
+    "purchase_date": "2026-01-17",
+    "serial_number": "SERIAL-000216",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000217",
+    "asset_tag": "AST-LAP-000217",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000217",
+    "purchase_date": "2026-01-18",
+    "serial_number": "SERIAL-000217",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000218",
+    "asset_tag": "AST-LAP-000218",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000218",
+    "purchase_date": "2026-01-19",
+    "serial_number": "SERIAL-000218",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000219",
+    "asset_tag": "AST-LAP-000219",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000219",
+    "purchase_date": "2026-01-20",
+    "serial_number": "SERIAL-000219",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000220",
+    "asset_tag": "AST-LAP-000220",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-21",
+    "serial_number": "SERIAL-000220",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000221",
+    "asset_tag": "AST-LAP-000221",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000221",
+    "purchase_date": "2026-01-22",
+    "serial_number": "SERIAL-000221",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000222",
+    "asset_tag": "AST-LAP-000222",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000222",
+    "purchase_date": "2026-01-23",
+    "serial_number": "SERIAL-000222",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000223",
+    "asset_tag": "AST-LAP-000223",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000223",
+    "purchase_date": "2026-01-24",
+    "serial_number": "SERIAL-000223",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000224",
+    "asset_tag": "AST-LAP-000224",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000224",
+    "purchase_date": "2026-01-25",
+    "serial_number": "SERIAL-000224",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000225",
+    "asset_tag": "AST-LAP-000225",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-26",
+    "serial_number": "SERIAL-000225",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000226",
+    "asset_tag": "AST-LAP-000226",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000226",
+    "purchase_date": "2026-01-27",
+    "serial_number": "SERIAL-000226",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000227",
+    "asset_tag": "AST-LAP-000227",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000227",
+    "purchase_date": "2026-01-28",
+    "serial_number": "SERIAL-000227",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000228",
+    "asset_tag": "AST-LAP-000228",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000228",
+    "purchase_date": "2026-01-29",
+    "serial_number": "SERIAL-000228",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000229",
+    "asset_tag": "AST-LAP-000229",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000229",
+    "purchase_date": "2026-01-30",
+    "serial_number": "SERIAL-000229",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000230",
+    "asset_tag": "AST-LAP-000230",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-31",
+    "serial_number": "SERIAL-000230",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000231",
+    "asset_tag": "AST-LAP-000231",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000231",
+    "purchase_date": "2026-02-01",
+    "serial_number": "SERIAL-000231",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000232",
+    "asset_tag": "AST-LAP-000232",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000232",
+    "purchase_date": "2026-02-02",
+    "serial_number": "SERIAL-000232",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000233",
+    "asset_tag": "AST-LAP-000233",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000233",
+    "purchase_date": "2026-02-03",
+    "serial_number": "SERIAL-000233",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000234",
+    "asset_tag": "AST-LAP-000234",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000234",
+    "purchase_date": "2026-02-04",
+    "serial_number": "SERIAL-000234",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000235",
+    "asset_tag": "AST-LAP-000235",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-02-05",
+    "serial_number": "SERIAL-000235",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000236",
+    "asset_tag": "AST-LAP-000236",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000236",
+    "purchase_date": "2026-02-06",
+    "serial_number": "SERIAL-000236",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000237",
+    "asset_tag": "AST-LAP-000237",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000237",
+    "purchase_date": "2026-02-07",
+    "serial_number": "SERIAL-000237",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000238",
+    "asset_tag": "AST-LAP-000238",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000238",
+    "purchase_date": "2026-02-08",
+    "serial_number": "SERIAL-000238",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000239",
+    "asset_tag": "AST-LAP-000239",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000239",
+    "purchase_date": "2026-02-09",
+    "serial_number": "SERIAL-000239",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000240",
+    "asset_tag": "AST-LAP-000240",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-02-10",
+    "serial_number": "SERIAL-000240",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000241",
+    "asset_tag": "AST-LAP-000241",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000241",
+    "purchase_date": "2026-02-11",
+    "serial_number": "SERIAL-000241",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000242",
+    "asset_tag": "AST-LAP-000242",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000242",
+    "purchase_date": "2026-02-12",
+    "serial_number": "SERIAL-000242",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000243",
+    "asset_tag": "AST-LAP-000243",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000243",
+    "purchase_date": "2026-02-13",
+    "serial_number": "SERIAL-000243",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000244",
+    "asset_tag": "AST-LAP-000244",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000244",
+    "purchase_date": "2026-02-14",
+    "serial_number": "SERIAL-000244",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000245",
+    "asset_tag": "AST-LAP-000245",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-02-15",
+    "serial_number": "SERIAL-000245",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000246",
+    "asset_tag": "AST-LAP-000246",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000246",
+    "purchase_date": "2026-02-16",
+    "serial_number": "SERIAL-000246",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000247",
+    "asset_tag": "AST-LAP-000247",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000247",
+    "purchase_date": "2026-02-17",
+    "serial_number": "SERIAL-000247",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000248",
+    "asset_tag": "AST-LAP-000248",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000248",
+    "purchase_date": "2026-02-18",
+    "serial_number": "SERIAL-000248",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000249",
+    "asset_tag": "AST-LAP-000249",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000249",
+    "purchase_date": "2026-02-19",
+    "serial_number": "SERIAL-000249",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000250",
+    "asset_tag": "AST-LAP-000250",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-02-20",
+    "serial_number": "SERIAL-000250",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000251",
+    "asset_tag": "AST-LAP-000251",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000251",
+    "purchase_date": "2026-02-21",
+    "serial_number": "SERIAL-000251",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000252",
+    "asset_tag": "AST-LAP-000252",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000252",
+    "purchase_date": "2026-02-22",
+    "serial_number": "SERIAL-000252",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000253",
+    "asset_tag": "AST-LAP-000253",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000253",
+    "purchase_date": "2026-02-23",
+    "serial_number": "SERIAL-000253",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000254",
+    "asset_tag": "AST-LAP-000254",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000254",
+    "purchase_date": "2026-02-24",
+    "serial_number": "SERIAL-000254",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000255",
+    "asset_tag": "AST-LAP-000255",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-02-25",
+    "serial_number": "SERIAL-000255",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000256",
+    "asset_tag": "AST-LAP-000256",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000256",
+    "purchase_date": "2026-02-26",
+    "serial_number": "SERIAL-000256",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000257",
+    "asset_tag": "AST-LAP-000257",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000257",
+    "purchase_date": "2026-02-27",
+    "serial_number": "SERIAL-000257",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000258",
+    "asset_tag": "AST-LAP-000258",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000258",
+    "purchase_date": "2026-02-28",
+    "serial_number": "SERIAL-000258",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000259",
+    "asset_tag": "AST-LAP-000259",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000259",
+    "purchase_date": "2026-03-01",
+    "serial_number": "SERIAL-000259",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000260",
+    "asset_tag": "AST-LAP-000260",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-03-02",
+    "serial_number": "SERIAL-000260",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000261",
+    "asset_tag": "AST-LAP-000261",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000261",
+    "purchase_date": "2026-03-03",
+    "serial_number": "SERIAL-000261",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000262",
+    "asset_tag": "AST-LAP-000262",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000262",
+    "purchase_date": "2026-03-04",
+    "serial_number": "SERIAL-000262",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000263",
+    "asset_tag": "AST-LAP-000263",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000263",
+    "purchase_date": "2026-03-05",
+    "serial_number": "SERIAL-000263",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000264",
+    "asset_tag": "AST-LAP-000264",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000264",
+    "purchase_date": "2026-03-06",
+    "serial_number": "SERIAL-000264",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000265",
+    "asset_tag": "AST-LAP-000265",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-03-07",
+    "serial_number": "SERIAL-000265",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000266",
+    "asset_tag": "AST-LAP-000266",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000266",
+    "purchase_date": "2026-03-08",
+    "serial_number": "SERIAL-000266",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000267",
+    "asset_tag": "AST-LAP-000267",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000267",
+    "purchase_date": "2026-03-09",
+    "serial_number": "SERIAL-000267",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000268",
+    "asset_tag": "AST-LAP-000268",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000268",
+    "purchase_date": "2026-03-10",
+    "serial_number": "SERIAL-000268",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000269",
+    "asset_tag": "AST-LAP-000269",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000269",
+    "purchase_date": "2026-03-11",
+    "serial_number": "SERIAL-000269",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000270",
+    "asset_tag": "AST-LAP-000270",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-03-12",
+    "serial_number": "SERIAL-000270",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000271",
+    "asset_tag": "AST-LAP-000271",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000271",
+    "purchase_date": "2026-03-13",
+    "serial_number": "SERIAL-000271",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000272",
+    "asset_tag": "AST-LAP-000272",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000272",
+    "purchase_date": "2026-03-14",
+    "serial_number": "SERIAL-000272",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000273",
+    "asset_tag": "AST-LAP-000273",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000273",
+    "purchase_date": "2026-03-15",
+    "serial_number": "SERIAL-000273",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000274",
+    "asset_tag": "AST-LAP-000274",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000274",
+    "purchase_date": "2026-03-16",
+    "serial_number": "SERIAL-000274",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000275",
+    "asset_tag": "AST-LAP-000275",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-03-17",
+    "serial_number": "SERIAL-000275",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000276",
+    "asset_tag": "AST-LAP-000276",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000276",
+    "purchase_date": "2026-03-18",
+    "serial_number": "SERIAL-000276",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000277",
+    "asset_tag": "AST-LAP-000277",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000277",
+    "purchase_date": "2026-03-19",
+    "serial_number": "SERIAL-000277",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000278",
+    "asset_tag": "AST-LAP-000278",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000278",
+    "purchase_date": "2026-03-20",
+    "serial_number": "SERIAL-000278",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000279",
+    "asset_tag": "AST-LAP-000279",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000279",
+    "purchase_date": "2026-03-21",
+    "serial_number": "SERIAL-000279",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000280",
+    "asset_tag": "AST-LAP-000280",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-03-22",
+    "serial_number": "SERIAL-000280",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000281",
+    "asset_tag": "AST-LAP-000281",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000281",
+    "purchase_date": "2026-03-23",
+    "serial_number": "SERIAL-000281",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000282",
+    "asset_tag": "AST-LAP-000282",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000282",
+    "purchase_date": "2026-03-24",
+    "serial_number": "SERIAL-000282",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000283",
+    "asset_tag": "AST-LAP-000283",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000283",
+    "purchase_date": "2026-03-25",
+    "serial_number": "SERIAL-000283",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000284",
+    "asset_tag": "AST-LAP-000284",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000284",
+    "purchase_date": "2026-03-26",
+    "serial_number": "SERIAL-000284",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000285",
+    "asset_tag": "AST-LAP-000285",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-03-27",
+    "serial_number": "SERIAL-000285",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000286",
+    "asset_tag": "AST-LAP-000286",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000286",
+    "purchase_date": "2026-03-28",
+    "serial_number": "SERIAL-000286",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000287",
+    "asset_tag": "AST-LAP-000287",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000287",
+    "purchase_date": "2026-03-29",
+    "serial_number": "SERIAL-000287",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000288",
+    "asset_tag": "AST-LAP-000288",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000288",
+    "purchase_date": "2026-03-30",
+    "serial_number": "SERIAL-000288",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000289",
+    "asset_tag": "AST-LAP-000289",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000289",
+    "purchase_date": "2026-03-31",
+    "serial_number": "SERIAL-000289",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000290",
+    "asset_tag": "AST-LAP-000290",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-04-01",
+    "serial_number": "SERIAL-000290",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000291",
+    "asset_tag": "AST-LAP-000291",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000291",
+    "purchase_date": "2026-04-02",
+    "serial_number": "SERIAL-000291",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000292",
+    "asset_tag": "AST-LAP-000292",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000292",
+    "purchase_date": "2026-04-03",
+    "serial_number": "SERIAL-000292",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000293",
+    "asset_tag": "AST-LAP-000293",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000293",
+    "purchase_date": "2026-04-04",
+    "serial_number": "SERIAL-000293",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000294",
+    "asset_tag": "AST-LAP-000294",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000294",
+    "purchase_date": "2026-04-05",
+    "serial_number": "SERIAL-000294",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000295",
+    "asset_tag": "AST-LAP-000295",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-04-06",
+    "serial_number": "SERIAL-000295",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000296",
+    "asset_tag": "AST-LAP-000296",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000296",
+    "purchase_date": "2026-04-07",
+    "serial_number": "SERIAL-000296",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000297",
+    "asset_tag": "AST-LAP-000297",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000297",
+    "purchase_date": "2026-04-08",
+    "serial_number": "SERIAL-000297",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000298",
+    "asset_tag": "AST-LAP-000298",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000298",
+    "purchase_date": "2026-04-09",
+    "serial_number": "SERIAL-000298",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000299",
+    "asset_tag": "AST-LAP-000299",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000299",
+    "purchase_date": "2026-04-10",
+    "serial_number": "SERIAL-000299",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000300",
+    "asset_tag": "AST-LAP-000300",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-04-11",
+    "serial_number": "SERIAL-000300",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000301",
+    "asset_tag": "AST-LAP-000301",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000301",
+    "purchase_date": "2026-04-12",
+    "serial_number": "SERIAL-000301",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000302",
+    "asset_tag": "AST-LAP-000302",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000302",
+    "purchase_date": "2026-04-13",
+    "serial_number": "SERIAL-000302",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000303",
+    "asset_tag": "AST-LAP-000303",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000303",
+    "purchase_date": "2026-04-14",
+    "serial_number": "SERIAL-000303",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000304",
+    "asset_tag": "AST-LAP-000304",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000304",
+    "purchase_date": "2026-04-15",
+    "serial_number": "SERIAL-000304",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000305",
+    "asset_tag": "AST-LAP-000305",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-04-16",
+    "serial_number": "SERIAL-000305",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000306",
+    "asset_tag": "AST-LAP-000306",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000306",
+    "purchase_date": "2026-04-17",
+    "serial_number": "SERIAL-000306",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000307",
+    "asset_tag": "AST-LAP-000307",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000307",
+    "purchase_date": "2026-04-18",
+    "serial_number": "SERIAL-000307",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000308",
+    "asset_tag": "AST-LAP-000308",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000308",
+    "purchase_date": "2026-04-19",
+    "serial_number": "SERIAL-000308",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000309",
+    "asset_tag": "AST-LAP-000309",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000309",
+    "purchase_date": "2026-04-20",
+    "serial_number": "SERIAL-000309",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000310",
+    "asset_tag": "AST-LAP-000310",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-04-21",
+    "serial_number": "SERIAL-000310",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000311",
+    "asset_tag": "AST-LAP-000311",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000311",
+    "purchase_date": "2026-04-22",
+    "serial_number": "SERIAL-000311",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000312",
+    "asset_tag": "AST-LAP-000312",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000312",
+    "purchase_date": "2026-04-23",
+    "serial_number": "SERIAL-000312",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000313",
+    "asset_tag": "AST-LAP-000313",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000313",
+    "purchase_date": "2026-04-24",
+    "serial_number": "SERIAL-000313",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000314",
+    "asset_tag": "AST-LAP-000314",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000314",
+    "purchase_date": "2026-04-25",
+    "serial_number": "SERIAL-000314",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000315",
+    "asset_tag": "AST-LAP-000315",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-04-26",
+    "serial_number": "SERIAL-000315",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000316",
+    "asset_tag": "AST-LAP-000316",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000316",
+    "purchase_date": "2026-04-27",
+    "serial_number": "SERIAL-000316",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000317",
+    "asset_tag": "AST-LAP-000317",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000317",
+    "purchase_date": "2026-04-28",
+    "serial_number": "SERIAL-000317",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000318",
+    "asset_tag": "AST-LAP-000318",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000318",
+    "purchase_date": "2026-04-29",
+    "serial_number": "SERIAL-000318",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000319",
+    "asset_tag": "AST-LAP-000319",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000319",
+    "purchase_date": "2026-04-30",
+    "serial_number": "SERIAL-000319",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000320",
+    "asset_tag": "AST-LAP-000320",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-01",
+    "serial_number": "SERIAL-000320",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000321",
+    "asset_tag": "AST-LAP-000321",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000321",
+    "purchase_date": "2026-05-02",
+    "serial_number": "SERIAL-000321",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000322",
+    "asset_tag": "AST-LAP-000322",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000322",
+    "purchase_date": "2026-05-03",
+    "serial_number": "SERIAL-000322",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000323",
+    "asset_tag": "AST-LAP-000323",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000323",
+    "purchase_date": "2026-05-04",
+    "serial_number": "SERIAL-000323",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000324",
+    "asset_tag": "AST-LAP-000324",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000324",
+    "purchase_date": "2026-05-05",
+    "serial_number": "SERIAL-000324",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000325",
+    "asset_tag": "AST-LAP-000325",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-06",
+    "serial_number": "SERIAL-000325",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000326",
+    "asset_tag": "AST-LAP-000326",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000326",
+    "purchase_date": "2026-05-07",
+    "serial_number": "SERIAL-000326",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000327",
+    "asset_tag": "AST-LAP-000327",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000327",
+    "purchase_date": "2026-05-08",
+    "serial_number": "SERIAL-000327",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000328",
+    "asset_tag": "AST-LAP-000328",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000328",
+    "purchase_date": "2026-05-09",
+    "serial_number": "SERIAL-000328",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000329",
+    "asset_tag": "AST-LAP-000329",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000329",
+    "purchase_date": "2026-05-10",
+    "serial_number": "SERIAL-000329",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000330",
+    "asset_tag": "AST-LAP-000330",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-11",
+    "serial_number": "SERIAL-000330",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000331",
+    "asset_tag": "AST-LAP-000331",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000331",
+    "purchase_date": "2026-05-12",
+    "serial_number": "SERIAL-000331",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000332",
+    "asset_tag": "AST-LAP-000332",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000332",
+    "purchase_date": "2026-05-13",
+    "serial_number": "SERIAL-000332",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000333",
+    "asset_tag": "AST-LAP-000333",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000333",
+    "purchase_date": "2026-05-14",
+    "serial_number": "SERIAL-000333",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000334",
+    "asset_tag": "AST-LAP-000334",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000334",
+    "purchase_date": "2026-05-15",
+    "serial_number": "SERIAL-000334",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000335",
+    "asset_tag": "AST-LAP-000335",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-16",
+    "serial_number": "SERIAL-000335",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000336",
+    "asset_tag": "AST-LAP-000336",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000336",
+    "purchase_date": "2026-05-17",
+    "serial_number": "SERIAL-000336",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000337",
+    "asset_tag": "AST-LAP-000337",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000337",
+    "purchase_date": "2026-05-18",
+    "serial_number": "SERIAL-000337",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000338",
+    "asset_tag": "AST-LAP-000338",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000338",
+    "purchase_date": "2026-05-19",
+    "serial_number": "SERIAL-000338",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000339",
+    "asset_tag": "AST-LAP-000339",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000339",
+    "purchase_date": "2026-05-20",
+    "serial_number": "SERIAL-000339",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000340",
+    "asset_tag": "AST-LAP-000340",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-21",
+    "serial_number": "SERIAL-000340",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000341",
+    "asset_tag": "AST-LAP-000341",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000341",
+    "purchase_date": "2026-05-22",
+    "serial_number": "SERIAL-000341",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000342",
+    "asset_tag": "AST-LAP-000342",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000342",
+    "purchase_date": "2026-05-23",
+    "serial_number": "SERIAL-000342",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000343",
+    "asset_tag": "AST-LAP-000343",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000343",
+    "purchase_date": "2026-05-24",
+    "serial_number": "SERIAL-000343",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000344",
+    "asset_tag": "AST-LAP-000344",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000344",
+    "purchase_date": "2026-05-25",
+    "serial_number": "SERIAL-000344",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000345",
+    "asset_tag": "AST-LAP-000345",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-26",
+    "serial_number": "SERIAL-000345",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000346",
+    "asset_tag": "AST-LAP-000346",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000346",
+    "purchase_date": "2026-05-27",
+    "serial_number": "SERIAL-000346",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000347",
+    "asset_tag": "AST-LAP-000347",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000347",
+    "purchase_date": "2026-05-28",
+    "serial_number": "SERIAL-000347",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000348",
+    "asset_tag": "AST-LAP-000348",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000348",
+    "purchase_date": "2026-05-29",
+    "serial_number": "SERIAL-000348",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000349",
+    "asset_tag": "AST-LAP-000349",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000349",
+    "purchase_date": "2026-05-30",
+    "serial_number": "SERIAL-000349",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000350",
+    "asset_tag": "AST-LAP-000350",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-31",
+    "serial_number": "SERIAL-000350",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000351",
+    "asset_tag": "AST-LAP-000351",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000351",
+    "purchase_date": "2026-06-01",
+    "serial_number": "SERIAL-000351",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000352",
+    "asset_tag": "AST-LAP-000352",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000352",
+    "purchase_date": "2026-06-02",
+    "serial_number": "SERIAL-000352",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000353",
+    "asset_tag": "AST-LAP-000353",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000353",
+    "purchase_date": "2026-06-03",
+    "serial_number": "SERIAL-000353",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000354",
+    "asset_tag": "AST-LAP-000354",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000354",
+    "purchase_date": "2026-06-04",
+    "serial_number": "SERIAL-000354",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000355",
+    "asset_tag": "AST-LAP-000355",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-06-05",
+    "serial_number": "SERIAL-000355",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000356",
+    "asset_tag": "AST-LAP-000356",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000356",
+    "purchase_date": "2026-06-06",
+    "serial_number": "SERIAL-000356",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000357",
+    "asset_tag": "AST-LAP-000357",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000357",
+    "purchase_date": "2026-06-07",
+    "serial_number": "SERIAL-000357",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000358",
+    "asset_tag": "AST-LAP-000358",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000358",
+    "purchase_date": "2026-06-08",
+    "serial_number": "SERIAL-000358",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000359",
+    "asset_tag": "AST-LAP-000359",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000359",
+    "purchase_date": "2026-06-09",
+    "serial_number": "SERIAL-000359",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000360",
+    "asset_tag": "AST-LAP-000360",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-06-10",
+    "serial_number": "SERIAL-000360",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000361",
+    "asset_tag": "AST-LAP-000361",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000361",
+    "purchase_date": "2026-06-11",
+    "serial_number": "SERIAL-000361",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000362",
+    "asset_tag": "AST-LAP-000362",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000362",
+    "purchase_date": "2026-06-12",
+    "serial_number": "SERIAL-000362",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000363",
+    "asset_tag": "AST-LAP-000363",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000363",
+    "purchase_date": "2026-06-13",
+    "serial_number": "SERIAL-000363",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000364",
+    "asset_tag": "AST-LAP-000364",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000364",
+    "purchase_date": "2026-06-14",
+    "serial_number": "SERIAL-000364",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000365",
+    "asset_tag": "AST-LAP-000365",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-06-15",
+    "serial_number": "SERIAL-000365",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000366",
+    "asset_tag": "AST-LAP-000366",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000366",
+    "purchase_date": "2026-06-16",
+    "serial_number": "SERIAL-000366",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000367",
+    "asset_tag": "AST-LAP-000367",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000367",
+    "purchase_date": "2026-06-17",
+    "serial_number": "SERIAL-000367",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000368",
+    "asset_tag": "AST-LAP-000368",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000368",
+    "purchase_date": "2026-06-18",
+    "serial_number": "SERIAL-000368",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000369",
+    "asset_tag": "AST-LAP-000369",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000369",
+    "purchase_date": "2026-06-19",
+    "serial_number": "SERIAL-000369",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000370",
+    "asset_tag": "AST-LAP-000370",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-06-20",
+    "serial_number": "SERIAL-000370",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000371",
+    "asset_tag": "AST-LAP-000371",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000371",
+    "purchase_date": "2026-06-21",
+    "serial_number": "SERIAL-000371",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000372",
+    "asset_tag": "AST-LAP-000372",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000372",
+    "purchase_date": "2026-06-22",
+    "serial_number": "SERIAL-000372",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000373",
+    "asset_tag": "AST-LAP-000373",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000373",
+    "purchase_date": "2026-06-23",
+    "serial_number": "SERIAL-000373",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000374",
+    "asset_tag": "AST-LAP-000374",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000374",
+    "purchase_date": "2026-06-24",
+    "serial_number": "SERIAL-000374",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000375",
+    "asset_tag": "AST-LAP-000375",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-06-25",
+    "serial_number": "SERIAL-000375",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000376",
+    "asset_tag": "AST-LAP-000376",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000376",
+    "purchase_date": "2026-06-26",
+    "serial_number": "SERIAL-000376",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000377",
+    "asset_tag": "AST-LAP-000377",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000377",
+    "purchase_date": "2026-06-27",
+    "serial_number": "SERIAL-000377",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000378",
+    "asset_tag": "AST-LAP-000378",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000378",
+    "purchase_date": "2026-06-28",
+    "serial_number": "SERIAL-000378",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000379",
+    "asset_tag": "AST-LAP-000379",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000379",
+    "purchase_date": "2026-06-29",
+    "serial_number": "SERIAL-000379",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000380",
+    "asset_tag": "AST-LAP-000380",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-06-30",
+    "serial_number": "SERIAL-000380",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000381",
+    "asset_tag": "AST-LAP-000381",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000381",
+    "purchase_date": "2026-07-01",
+    "serial_number": "SERIAL-000381",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000382",
+    "asset_tag": "AST-LAP-000382",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000382",
+    "purchase_date": "2026-07-02",
+    "serial_number": "SERIAL-000382",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000383",
+    "asset_tag": "AST-LAP-000383",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000383",
+    "purchase_date": "2026-07-03",
+    "serial_number": "SERIAL-000383",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000384",
+    "asset_tag": "AST-LAP-000384",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000384",
+    "purchase_date": "2026-07-04",
+    "serial_number": "SERIAL-000384",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000385",
+    "asset_tag": "AST-LAP-000385",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-07-05",
+    "serial_number": "SERIAL-000385",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000386",
+    "asset_tag": "AST-LAP-000386",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000386",
+    "purchase_date": "2026-07-06",
+    "serial_number": "SERIAL-000386",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000387",
+    "asset_tag": "AST-LAP-000387",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000387",
+    "purchase_date": "2026-07-07",
+    "serial_number": "SERIAL-000387",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000388",
+    "asset_tag": "AST-LAP-000388",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000388",
+    "purchase_date": "2026-07-08",
+    "serial_number": "SERIAL-000388",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000389",
+    "asset_tag": "AST-LAP-000389",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000389",
+    "purchase_date": "2026-07-09",
+    "serial_number": "SERIAL-000389",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000390",
+    "asset_tag": "AST-LAP-000390",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-07-10",
+    "serial_number": "SERIAL-000390",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000391",
+    "asset_tag": "AST-LAP-000391",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000391",
+    "purchase_date": "2026-07-11",
+    "serial_number": "SERIAL-000391",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000392",
+    "asset_tag": "AST-LAP-000392",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000392",
+    "purchase_date": "2026-07-12",
+    "serial_number": "SERIAL-000392",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000393",
+    "asset_tag": "AST-LAP-000393",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000393",
+    "purchase_date": "2026-07-13",
+    "serial_number": "SERIAL-000393",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000394",
+    "asset_tag": "AST-LAP-000394",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000394",
+    "purchase_date": "2026-07-14",
+    "serial_number": "SERIAL-000394",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000395",
+    "asset_tag": "AST-LAP-000395",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-07-15",
+    "serial_number": "SERIAL-000395",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000396",
+    "asset_tag": "AST-LAP-000396",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000396",
+    "purchase_date": "2026-07-16",
+    "serial_number": "SERIAL-000396",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000397",
+    "asset_tag": "AST-LAP-000397",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000397",
+    "purchase_date": "2026-07-17",
+    "serial_number": "SERIAL-000397",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000398",
+    "asset_tag": "AST-LAP-000398",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000398",
+    "purchase_date": "2026-07-18",
+    "serial_number": "SERIAL-000398",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000399",
+    "asset_tag": "AST-LAP-000399",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000399",
+    "purchase_date": "2026-07-19",
+    "serial_number": "SERIAL-000399",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000400",
+    "asset_tag": "AST-LAP-000400",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-01",
+    "serial_number": "SERIAL-000400",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000401",
+    "asset_tag": "AST-LAP-000401",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000401",
+    "purchase_date": "2026-01-02",
+    "serial_number": "SERIAL-000401",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000402",
+    "asset_tag": "AST-LAP-000402",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000402",
+    "purchase_date": "2026-01-03",
+    "serial_number": "SERIAL-000402",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000403",
+    "asset_tag": "AST-LAP-000403",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000403",
+    "purchase_date": "2026-01-04",
+    "serial_number": "SERIAL-000403",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000404",
+    "asset_tag": "AST-LAP-000404",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000404",
+    "purchase_date": "2026-01-05",
+    "serial_number": "SERIAL-000404",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000405",
+    "asset_tag": "AST-LAP-000405",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-06",
+    "serial_number": "SERIAL-000405",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000406",
+    "asset_tag": "AST-LAP-000406",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000406",
+    "purchase_date": "2026-01-07",
+    "serial_number": "SERIAL-000406",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000407",
+    "asset_tag": "AST-LAP-000407",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000407",
+    "purchase_date": "2026-01-08",
+    "serial_number": "SERIAL-000407",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000408",
+    "asset_tag": "AST-LAP-000408",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000408",
+    "purchase_date": "2026-01-09",
+    "serial_number": "SERIAL-000408",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000409",
+    "asset_tag": "AST-LAP-000409",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000409",
+    "purchase_date": "2026-01-10",
+    "serial_number": "SERIAL-000409",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000410",
+    "asset_tag": "AST-LAP-000410",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-11",
+    "serial_number": "SERIAL-000410",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000411",
+    "asset_tag": "AST-LAP-000411",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000411",
+    "purchase_date": "2026-01-12",
+    "serial_number": "SERIAL-000411",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000412",
+    "asset_tag": "AST-LAP-000412",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000412",
+    "purchase_date": "2026-01-13",
+    "serial_number": "SERIAL-000412",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000413",
+    "asset_tag": "AST-LAP-000413",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000413",
+    "purchase_date": "2026-01-14",
+    "serial_number": "SERIAL-000413",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000414",
+    "asset_tag": "AST-LAP-000414",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000414",
+    "purchase_date": "2026-01-15",
+    "serial_number": "SERIAL-000414",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000415",
+    "asset_tag": "AST-LAP-000415",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-16",
+    "serial_number": "SERIAL-000415",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000416",
+    "asset_tag": "AST-LAP-000416",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000416",
+    "purchase_date": "2026-01-17",
+    "serial_number": "SERIAL-000416",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000417",
+    "asset_tag": "AST-LAP-000417",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000417",
+    "purchase_date": "2026-01-18",
+    "serial_number": "SERIAL-000417",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000418",
+    "asset_tag": "AST-LAP-000418",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000418",
+    "purchase_date": "2026-01-19",
+    "serial_number": "SERIAL-000418",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000419",
+    "asset_tag": "AST-LAP-000419",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000419",
+    "purchase_date": "2026-01-20",
+    "serial_number": "SERIAL-000419",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000420",
+    "asset_tag": "AST-LAP-000420",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-21",
+    "serial_number": "SERIAL-000420",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000421",
+    "asset_tag": "AST-LAP-000421",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000421",
+    "purchase_date": "2026-01-22",
+    "serial_number": "SERIAL-000421",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000422",
+    "asset_tag": "AST-LAP-000422",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000422",
+    "purchase_date": "2026-01-23",
+    "serial_number": "SERIAL-000422",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000423",
+    "asset_tag": "AST-LAP-000423",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000423",
+    "purchase_date": "2026-01-24",
+    "serial_number": "SERIAL-000423",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000424",
+    "asset_tag": "AST-LAP-000424",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000424",
+    "purchase_date": "2026-01-25",
+    "serial_number": "SERIAL-000424",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000425",
+    "asset_tag": "AST-LAP-000425",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-26",
+    "serial_number": "SERIAL-000425",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000426",
+    "asset_tag": "AST-LAP-000426",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000426",
+    "purchase_date": "2026-01-27",
+    "serial_number": "SERIAL-000426",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000427",
+    "asset_tag": "AST-LAP-000427",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000427",
+    "purchase_date": "2026-01-28",
+    "serial_number": "SERIAL-000427",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000428",
+    "asset_tag": "AST-LAP-000428",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000428",
+    "purchase_date": "2026-01-29",
+    "serial_number": "SERIAL-000428",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000429",
+    "asset_tag": "AST-LAP-000429",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000429",
+    "purchase_date": "2026-01-30",
+    "serial_number": "SERIAL-000429",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000430",
+    "asset_tag": "AST-LAP-000430",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-31",
+    "serial_number": "SERIAL-000430",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000431",
+    "asset_tag": "AST-LAP-000431",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000431",
+    "purchase_date": "2026-02-01",
+    "serial_number": "SERIAL-000431",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000432",
+    "asset_tag": "AST-LAP-000432",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000432",
+    "purchase_date": "2026-02-02",
+    "serial_number": "SERIAL-000432",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000433",
+    "asset_tag": "AST-LAP-000433",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000433",
+    "purchase_date": "2026-02-03",
+    "serial_number": "SERIAL-000433",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000434",
+    "asset_tag": "AST-LAP-000434",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000434",
+    "purchase_date": "2026-02-04",
+    "serial_number": "SERIAL-000434",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000435",
+    "asset_tag": "AST-LAP-000435",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-02-05",
+    "serial_number": "SERIAL-000435",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000436",
+    "asset_tag": "AST-LAP-000436",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000436",
+    "purchase_date": "2026-02-06",
+    "serial_number": "SERIAL-000436",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000437",
+    "asset_tag": "AST-LAP-000437",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000437",
+    "purchase_date": "2026-02-07",
+    "serial_number": "SERIAL-000437",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000438",
+    "asset_tag": "AST-LAP-000438",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000438",
+    "purchase_date": "2026-02-08",
+    "serial_number": "SERIAL-000438",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000439",
+    "asset_tag": "AST-LAP-000439",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000439",
+    "purchase_date": "2026-02-09",
+    "serial_number": "SERIAL-000439",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000440",
+    "asset_tag": "AST-LAP-000440",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-02-10",
+    "serial_number": "SERIAL-000440",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000441",
+    "asset_tag": "AST-LAP-000441",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000441",
+    "purchase_date": "2026-02-11",
+    "serial_number": "SERIAL-000441",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000442",
+    "asset_tag": "AST-LAP-000442",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000442",
+    "purchase_date": "2026-02-12",
+    "serial_number": "SERIAL-000442",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000443",
+    "asset_tag": "AST-LAP-000443",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000443",
+    "purchase_date": "2026-02-13",
+    "serial_number": "SERIAL-000443",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000444",
+    "asset_tag": "AST-LAP-000444",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000444",
+    "purchase_date": "2026-02-14",
+    "serial_number": "SERIAL-000444",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000445",
+    "asset_tag": "AST-LAP-000445",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-02-15",
+    "serial_number": "SERIAL-000445",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000446",
+    "asset_tag": "AST-LAP-000446",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000446",
+    "purchase_date": "2026-02-16",
+    "serial_number": "SERIAL-000446",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000447",
+    "asset_tag": "AST-LAP-000447",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000447",
+    "purchase_date": "2026-02-17",
+    "serial_number": "SERIAL-000447",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000448",
+    "asset_tag": "AST-LAP-000448",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000448",
+    "purchase_date": "2026-02-18",
+    "serial_number": "SERIAL-000448",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000449",
+    "asset_tag": "AST-LAP-000449",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000449",
+    "purchase_date": "2026-02-19",
+    "serial_number": "SERIAL-000449",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000450",
+    "asset_tag": "AST-LAP-000450",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-02-20",
+    "serial_number": "SERIAL-000450",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000451",
+    "asset_tag": "AST-LAP-000451",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000451",
+    "purchase_date": "2026-02-21",
+    "serial_number": "SERIAL-000451",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000452",
+    "asset_tag": "AST-LAP-000452",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000452",
+    "purchase_date": "2026-02-22",
+    "serial_number": "SERIAL-000452",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000453",
+    "asset_tag": "AST-LAP-000453",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000453",
+    "purchase_date": "2026-02-23",
+    "serial_number": "SERIAL-000453",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000454",
+    "asset_tag": "AST-LAP-000454",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000454",
+    "purchase_date": "2026-02-24",
+    "serial_number": "SERIAL-000454",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000455",
+    "asset_tag": "AST-LAP-000455",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-02-25",
+    "serial_number": "SERIAL-000455",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000456",
+    "asset_tag": "AST-LAP-000456",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000456",
+    "purchase_date": "2026-02-26",
+    "serial_number": "SERIAL-000456",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000457",
+    "asset_tag": "AST-LAP-000457",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000457",
+    "purchase_date": "2026-02-27",
+    "serial_number": "SERIAL-000457",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000458",
+    "asset_tag": "AST-LAP-000458",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000458",
+    "purchase_date": "2026-02-28",
+    "serial_number": "SERIAL-000458",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000459",
+    "asset_tag": "AST-LAP-000459",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000459",
+    "purchase_date": "2026-03-01",
+    "serial_number": "SERIAL-000459",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000460",
+    "asset_tag": "AST-LAP-000460",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-03-02",
+    "serial_number": "SERIAL-000460",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000461",
+    "asset_tag": "AST-LAP-000461",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000461",
+    "purchase_date": "2026-03-03",
+    "serial_number": "SERIAL-000461",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000462",
+    "asset_tag": "AST-LAP-000462",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000462",
+    "purchase_date": "2026-03-04",
+    "serial_number": "SERIAL-000462",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000463",
+    "asset_tag": "AST-LAP-000463",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000463",
+    "purchase_date": "2026-03-05",
+    "serial_number": "SERIAL-000463",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000464",
+    "asset_tag": "AST-LAP-000464",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000464",
+    "purchase_date": "2026-03-06",
+    "serial_number": "SERIAL-000464",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000465",
+    "asset_tag": "AST-LAP-000465",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-03-07",
+    "serial_number": "SERIAL-000465",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000466",
+    "asset_tag": "AST-LAP-000466",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000466",
+    "purchase_date": "2026-03-08",
+    "serial_number": "SERIAL-000466",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000467",
+    "asset_tag": "AST-LAP-000467",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000467",
+    "purchase_date": "2026-03-09",
+    "serial_number": "SERIAL-000467",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000468",
+    "asset_tag": "AST-LAP-000468",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000468",
+    "purchase_date": "2026-03-10",
+    "serial_number": "SERIAL-000468",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000469",
+    "asset_tag": "AST-LAP-000469",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000469",
+    "purchase_date": "2026-03-11",
+    "serial_number": "SERIAL-000469",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000470",
+    "asset_tag": "AST-LAP-000470",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-03-12",
+    "serial_number": "SERIAL-000470",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000471",
+    "asset_tag": "AST-LAP-000471",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000471",
+    "purchase_date": "2026-03-13",
+    "serial_number": "SERIAL-000471",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000472",
+    "asset_tag": "AST-LAP-000472",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000472",
+    "purchase_date": "2026-03-14",
+    "serial_number": "SERIAL-000472",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000473",
+    "asset_tag": "AST-LAP-000473",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000473",
+    "purchase_date": "2026-03-15",
+    "serial_number": "SERIAL-000473",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000474",
+    "asset_tag": "AST-LAP-000474",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000474",
+    "purchase_date": "2026-03-16",
+    "serial_number": "SERIAL-000474",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000475",
+    "asset_tag": "AST-LAP-000475",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-03-17",
+    "serial_number": "SERIAL-000475",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000476",
+    "asset_tag": "AST-LAP-000476",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000476",
+    "purchase_date": "2026-03-18",
+    "serial_number": "SERIAL-000476",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000477",
+    "asset_tag": "AST-LAP-000477",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000477",
+    "purchase_date": "2026-03-19",
+    "serial_number": "SERIAL-000477",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000478",
+    "asset_tag": "AST-LAP-000478",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000478",
+    "purchase_date": "2026-03-20",
+    "serial_number": "SERIAL-000478",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000479",
+    "asset_tag": "AST-LAP-000479",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000479",
+    "purchase_date": "2026-03-21",
+    "serial_number": "SERIAL-000479",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000480",
+    "asset_tag": "AST-LAP-000480",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-03-22",
+    "serial_number": "SERIAL-000480",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000481",
+    "asset_tag": "AST-LAP-000481",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000481",
+    "purchase_date": "2026-03-23",
+    "serial_number": "SERIAL-000481",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000482",
+    "asset_tag": "AST-LAP-000482",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000482",
+    "purchase_date": "2026-03-24",
+    "serial_number": "SERIAL-000482",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000483",
+    "asset_tag": "AST-LAP-000483",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000483",
+    "purchase_date": "2026-03-25",
+    "serial_number": "SERIAL-000483",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000484",
+    "asset_tag": "AST-LAP-000484",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000484",
+    "purchase_date": "2026-03-26",
+    "serial_number": "SERIAL-000484",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000485",
+    "asset_tag": "AST-LAP-000485",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-03-27",
+    "serial_number": "SERIAL-000485",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000486",
+    "asset_tag": "AST-LAP-000486",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000486",
+    "purchase_date": "2026-03-28",
+    "serial_number": "SERIAL-000486",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000487",
+    "asset_tag": "AST-LAP-000487",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000487",
+    "purchase_date": "2026-03-29",
+    "serial_number": "SERIAL-000487",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000488",
+    "asset_tag": "AST-LAP-000488",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000488",
+    "purchase_date": "2026-03-30",
+    "serial_number": "SERIAL-000488",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000489",
+    "asset_tag": "AST-LAP-000489",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000489",
+    "purchase_date": "2026-03-31",
+    "serial_number": "SERIAL-000489",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000490",
+    "asset_tag": "AST-LAP-000490",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-04-01",
+    "serial_number": "SERIAL-000490",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000491",
+    "asset_tag": "AST-LAP-000491",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000491",
+    "purchase_date": "2026-04-02",
+    "serial_number": "SERIAL-000491",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000492",
+    "asset_tag": "AST-LAP-000492",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000492",
+    "purchase_date": "2026-04-03",
+    "serial_number": "SERIAL-000492",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000493",
+    "asset_tag": "AST-LAP-000493",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000493",
+    "purchase_date": "2026-04-04",
+    "serial_number": "SERIAL-000493",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000494",
+    "asset_tag": "AST-LAP-000494",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000494",
+    "purchase_date": "2026-04-05",
+    "serial_number": "SERIAL-000494",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000495",
+    "asset_tag": "AST-LAP-000495",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-04-06",
+    "serial_number": "SERIAL-000495",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000496",
+    "asset_tag": "AST-LAP-000496",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000496",
+    "purchase_date": "2026-04-07",
+    "serial_number": "SERIAL-000496",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000497",
+    "asset_tag": "AST-LAP-000497",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000497",
+    "purchase_date": "2026-04-08",
+    "serial_number": "SERIAL-000497",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000498",
+    "asset_tag": "AST-LAP-000498",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000498",
+    "purchase_date": "2026-04-09",
+    "serial_number": "SERIAL-000498",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000499",
+    "asset_tag": "AST-LAP-000499",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000499",
+    "purchase_date": "2026-04-10",
+    "serial_number": "SERIAL-000499",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000500",
+    "asset_tag": "AST-LAP-000500",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-04-11",
+    "serial_number": "SERIAL-000500",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000501",
+    "asset_tag": "AST-LAP-000501",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000001",
+    "purchase_date": "2026-04-12",
+    "serial_number": "SERIAL-000501",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000502",
+    "asset_tag": "AST-LAP-000502",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000002",
+    "purchase_date": "2026-04-13",
+    "serial_number": "SERIAL-000502",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000503",
+    "asset_tag": "AST-LAP-000503",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000003",
+    "purchase_date": "2026-04-14",
+    "serial_number": "SERIAL-000503",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000504",
+    "asset_tag": "AST-LAP-000504",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000004",
+    "purchase_date": "2026-04-15",
+    "serial_number": "SERIAL-000504",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000505",
+    "asset_tag": "AST-LAP-000505",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-04-16",
+    "serial_number": "SERIAL-000505",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000506",
+    "asset_tag": "AST-LAP-000506",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000006",
+    "purchase_date": "2026-04-17",
+    "serial_number": "SERIAL-000506",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000507",
+    "asset_tag": "AST-LAP-000507",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000007",
+    "purchase_date": "2026-04-18",
+    "serial_number": "SERIAL-000507",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000508",
+    "asset_tag": "AST-LAP-000508",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000008",
+    "purchase_date": "2026-04-19",
+    "serial_number": "SERIAL-000508",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000509",
+    "asset_tag": "AST-LAP-000509",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000009",
+    "purchase_date": "2026-04-20",
+    "serial_number": "SERIAL-000509",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000510",
+    "asset_tag": "AST-LAP-000510",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-04-21",
+    "serial_number": "SERIAL-000510",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000511",
+    "asset_tag": "AST-LAP-000511",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000011",
+    "purchase_date": "2026-04-22",
+    "serial_number": "SERIAL-000511",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000512",
+    "asset_tag": "AST-LAP-000512",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000012",
+    "purchase_date": "2026-04-23",
+    "serial_number": "SERIAL-000512",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000513",
+    "asset_tag": "AST-LAP-000513",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000013",
+    "purchase_date": "2026-04-24",
+    "serial_number": "SERIAL-000513",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000514",
+    "asset_tag": "AST-LAP-000514",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000014",
+    "purchase_date": "2026-04-25",
+    "serial_number": "SERIAL-000514",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000515",
+    "asset_tag": "AST-LAP-000515",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-04-26",
+    "serial_number": "SERIAL-000515",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000516",
+    "asset_tag": "AST-LAP-000516",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000016",
+    "purchase_date": "2026-04-27",
+    "serial_number": "SERIAL-000516",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000517",
+    "asset_tag": "AST-LAP-000517",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000017",
+    "purchase_date": "2026-04-28",
+    "serial_number": "SERIAL-000517",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000518",
+    "asset_tag": "AST-LAP-000518",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000018",
+    "purchase_date": "2026-04-29",
+    "serial_number": "SERIAL-000518",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000519",
+    "asset_tag": "AST-LAP-000519",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000019",
+    "purchase_date": "2026-04-30",
+    "serial_number": "SERIAL-000519",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000520",
+    "asset_tag": "AST-LAP-000520",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-01",
+    "serial_number": "SERIAL-000520",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000521",
+    "asset_tag": "AST-LAP-000521",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000021",
+    "purchase_date": "2026-05-02",
+    "serial_number": "SERIAL-000521",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000522",
+    "asset_tag": "AST-LAP-000522",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000022",
+    "purchase_date": "2026-05-03",
+    "serial_number": "SERIAL-000522",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000523",
+    "asset_tag": "AST-LAP-000523",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000023",
+    "purchase_date": "2026-05-04",
+    "serial_number": "SERIAL-000523",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000524",
+    "asset_tag": "AST-LAP-000524",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000024",
+    "purchase_date": "2026-05-05",
+    "serial_number": "SERIAL-000524",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000525",
+    "asset_tag": "AST-LAP-000525",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-06",
+    "serial_number": "SERIAL-000525",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000526",
+    "asset_tag": "AST-LAP-000526",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000026",
+    "purchase_date": "2026-05-07",
+    "serial_number": "SERIAL-000526",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000527",
+    "asset_tag": "AST-LAP-000527",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000027",
+    "purchase_date": "2026-05-08",
+    "serial_number": "SERIAL-000527",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000528",
+    "asset_tag": "AST-LAP-000528",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000028",
+    "purchase_date": "2026-05-09",
+    "serial_number": "SERIAL-000528",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000529",
+    "asset_tag": "AST-LAP-000529",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000029",
+    "purchase_date": "2026-05-10",
+    "serial_number": "SERIAL-000529",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000530",
+    "asset_tag": "AST-LAP-000530",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-11",
+    "serial_number": "SERIAL-000530",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000531",
+    "asset_tag": "AST-LAP-000531",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000031",
+    "purchase_date": "2026-05-12",
+    "serial_number": "SERIAL-000531",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000532",
+    "asset_tag": "AST-LAP-000532",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000032",
+    "purchase_date": "2026-05-13",
+    "serial_number": "SERIAL-000532",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000533",
+    "asset_tag": "AST-LAP-000533",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000033",
+    "purchase_date": "2026-05-14",
+    "serial_number": "SERIAL-000533",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000534",
+    "asset_tag": "AST-LAP-000534",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000034",
+    "purchase_date": "2026-05-15",
+    "serial_number": "SERIAL-000534",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000535",
+    "asset_tag": "AST-LAP-000535",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-16",
+    "serial_number": "SERIAL-000535",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000536",
+    "asset_tag": "AST-LAP-000536",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000036",
+    "purchase_date": "2026-05-17",
+    "serial_number": "SERIAL-000536",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000537",
+    "asset_tag": "AST-LAP-000537",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000037",
+    "purchase_date": "2026-05-18",
+    "serial_number": "SERIAL-000537",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000538",
+    "asset_tag": "AST-LAP-000538",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000038",
+    "purchase_date": "2026-05-19",
+    "serial_number": "SERIAL-000538",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000539",
+    "asset_tag": "AST-LAP-000539",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000039",
+    "purchase_date": "2026-05-20",
+    "serial_number": "SERIAL-000539",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000540",
+    "asset_tag": "AST-LAP-000540",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-21",
+    "serial_number": "SERIAL-000540",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000541",
+    "asset_tag": "AST-LAP-000541",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000041",
+    "purchase_date": "2026-05-22",
+    "serial_number": "SERIAL-000541",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000542",
+    "asset_tag": "AST-LAP-000542",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000042",
+    "purchase_date": "2026-05-23",
+    "serial_number": "SERIAL-000542",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000543",
+    "asset_tag": "AST-LAP-000543",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000043",
+    "purchase_date": "2026-05-24",
+    "serial_number": "SERIAL-000543",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000544",
+    "asset_tag": "AST-LAP-000544",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000044",
+    "purchase_date": "2026-05-25",
+    "serial_number": "SERIAL-000544",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000545",
+    "asset_tag": "AST-LAP-000545",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-26",
+    "serial_number": "SERIAL-000545",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000546",
+    "asset_tag": "AST-LAP-000546",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000046",
+    "purchase_date": "2026-05-27",
+    "serial_number": "SERIAL-000546",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000547",
+    "asset_tag": "AST-LAP-000547",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000047",
+    "purchase_date": "2026-05-28",
+    "serial_number": "SERIAL-000547",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000548",
+    "asset_tag": "AST-LAP-000548",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000048",
+    "purchase_date": "2026-05-29",
+    "serial_number": "SERIAL-000548",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000549",
+    "asset_tag": "AST-LAP-000549",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000049",
+    "purchase_date": "2026-05-30",
+    "serial_number": "SERIAL-000549",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000550",
+    "asset_tag": "AST-LAP-000550",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-05-31",
+    "serial_number": "SERIAL-000550",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000551",
+    "asset_tag": "AST-LAP-000551",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000051",
+    "purchase_date": "2026-06-01",
+    "serial_number": "SERIAL-000551",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000552",
+    "asset_tag": "AST-LAP-000552",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000052",
+    "purchase_date": "2026-06-02",
+    "serial_number": "SERIAL-000552",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000553",
+    "asset_tag": "AST-LAP-000553",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000053",
+    "purchase_date": "2026-06-03",
+    "serial_number": "SERIAL-000553",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000554",
+    "asset_tag": "AST-LAP-000554",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000054",
+    "purchase_date": "2026-06-04",
+    "serial_number": "SERIAL-000554",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000555",
+    "asset_tag": "AST-LAP-000555",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-06-05",
+    "serial_number": "SERIAL-000555",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000556",
+    "asset_tag": "AST-LAP-000556",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000056",
+    "purchase_date": "2026-06-06",
+    "serial_number": "SERIAL-000556",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000557",
+    "asset_tag": "AST-LAP-000557",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000057",
+    "purchase_date": "2026-06-07",
+    "serial_number": "SERIAL-000557",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000558",
+    "asset_tag": "AST-LAP-000558",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000058",
+    "purchase_date": "2026-06-08",
+    "serial_number": "SERIAL-000558",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000559",
+    "asset_tag": "AST-LAP-000559",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000059",
+    "purchase_date": "2026-06-09",
+    "serial_number": "SERIAL-000559",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000560",
+    "asset_tag": "AST-LAP-000560",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-06-10",
+    "serial_number": "SERIAL-000560",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000561",
+    "asset_tag": "AST-LAP-000561",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000061",
+    "purchase_date": "2026-06-11",
+    "serial_number": "SERIAL-000561",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000562",
+    "asset_tag": "AST-LAP-000562",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000062",
+    "purchase_date": "2026-06-12",
+    "serial_number": "SERIAL-000562",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000563",
+    "asset_tag": "AST-LAP-000563",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000063",
+    "purchase_date": "2026-06-13",
+    "serial_number": "SERIAL-000563",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000564",
+    "asset_tag": "AST-LAP-000564",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000064",
+    "purchase_date": "2026-06-14",
+    "serial_number": "SERIAL-000564",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000565",
+    "asset_tag": "AST-LAP-000565",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-06-15",
+    "serial_number": "SERIAL-000565",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000566",
+    "asset_tag": "AST-LAP-000566",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000066",
+    "purchase_date": "2026-06-16",
+    "serial_number": "SERIAL-000566",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000567",
+    "asset_tag": "AST-LAP-000567",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000067",
+    "purchase_date": "2026-06-17",
+    "serial_number": "SERIAL-000567",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000568",
+    "asset_tag": "AST-LAP-000568",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000068",
+    "purchase_date": "2026-06-18",
+    "serial_number": "SERIAL-000568",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000569",
+    "asset_tag": "AST-LAP-000569",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000069",
+    "purchase_date": "2026-06-19",
+    "serial_number": "SERIAL-000569",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000570",
+    "asset_tag": "AST-LAP-000570",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-06-20",
+    "serial_number": "SERIAL-000570",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000571",
+    "asset_tag": "AST-LAP-000571",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000071",
+    "purchase_date": "2026-06-21",
+    "serial_number": "SERIAL-000571",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000572",
+    "asset_tag": "AST-LAP-000572",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000072",
+    "purchase_date": "2026-06-22",
+    "serial_number": "SERIAL-000572",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000573",
+    "asset_tag": "AST-LAP-000573",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000073",
+    "purchase_date": "2026-06-23",
+    "serial_number": "SERIAL-000573",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000574",
+    "asset_tag": "AST-LAP-000574",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000074",
+    "purchase_date": "2026-06-24",
+    "serial_number": "SERIAL-000574",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000575",
+    "asset_tag": "AST-LAP-000575",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-06-25",
+    "serial_number": "SERIAL-000575",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000576",
+    "asset_tag": "AST-LAP-000576",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000076",
+    "purchase_date": "2026-06-26",
+    "serial_number": "SERIAL-000576",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000577",
+    "asset_tag": "AST-LAP-000577",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000077",
+    "purchase_date": "2026-06-27",
+    "serial_number": "SERIAL-000577",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000578",
+    "asset_tag": "AST-LAP-000578",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000078",
+    "purchase_date": "2026-06-28",
+    "serial_number": "SERIAL-000578",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000579",
+    "asset_tag": "AST-LAP-000579",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000079",
+    "purchase_date": "2026-06-29",
+    "serial_number": "SERIAL-000579",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000580",
+    "asset_tag": "AST-LAP-000580",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-06-30",
+    "serial_number": "SERIAL-000580",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000581",
+    "asset_tag": "AST-LAP-000581",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000081",
+    "purchase_date": "2026-07-01",
+    "serial_number": "SERIAL-000581",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000582",
+    "asset_tag": "AST-LAP-000582",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000082",
+    "purchase_date": "2026-07-02",
+    "serial_number": "SERIAL-000582",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000583",
+    "asset_tag": "AST-LAP-000583",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000083",
+    "purchase_date": "2026-07-03",
+    "serial_number": "SERIAL-000583",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000584",
+    "asset_tag": "AST-LAP-000584",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000084",
+    "purchase_date": "2026-07-04",
+    "serial_number": "SERIAL-000584",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000585",
+    "asset_tag": "AST-LAP-000585",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-07-05",
+    "serial_number": "SERIAL-000585",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000586",
+    "asset_tag": "AST-LAP-000586",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000086",
+    "purchase_date": "2026-07-06",
+    "serial_number": "SERIAL-000586",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000587",
+    "asset_tag": "AST-LAP-000587",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000087",
+    "purchase_date": "2026-07-07",
+    "serial_number": "SERIAL-000587",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000588",
+    "asset_tag": "AST-LAP-000588",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000088",
+    "purchase_date": "2026-07-08",
+    "serial_number": "SERIAL-000588",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000589",
+    "asset_tag": "AST-LAP-000589",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000089",
+    "purchase_date": "2026-07-09",
+    "serial_number": "SERIAL-000589",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000590",
+    "asset_tag": "AST-LAP-000590",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-07-10",
+    "serial_number": "SERIAL-000590",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000591",
+    "asset_tag": "AST-LAP-000591",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000091",
+    "purchase_date": "2026-07-11",
+    "serial_number": "SERIAL-000591",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000592",
+    "asset_tag": "AST-LAP-000592",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000092",
+    "purchase_date": "2026-07-12",
+    "serial_number": "SERIAL-000592",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000593",
+    "asset_tag": "AST-LAP-000593",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000093",
+    "purchase_date": "2026-07-13",
+    "serial_number": "SERIAL-000593",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000594",
+    "asset_tag": "AST-LAP-000594",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000094",
+    "purchase_date": "2026-07-14",
+    "serial_number": "SERIAL-000594",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000595",
+    "asset_tag": "AST-LAP-000595",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-07-15",
+    "serial_number": "SERIAL-000595",
+    "status": "available"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000596",
+    "asset_tag": "AST-LAP-000596",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000096",
+    "purchase_date": "2026-07-16",
+    "serial_number": "SERIAL-000596",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000597",
+    "asset_tag": "AST-LAP-000597",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000097",
+    "purchase_date": "2026-07-17",
+    "serial_number": "SERIAL-000597",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000598",
+    "asset_tag": "AST-LAP-000598",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "EMP-000098",
+    "purchase_date": "2026-07-18",
+    "serial_number": "SERIAL-000598",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000599",
+    "asset_tag": "AST-LAP-000599",
+    "asset_type": "Laptop",
+    "assigned_employee_id": "EMP-000099",
+    "purchase_date": "2026-07-19",
+    "serial_number": "SERIAL-000599",
+    "status": "assigned"
+  },
+  {
+    "anomaly": "",
+    "asset_id": "AST-LAP-000600",
+    "asset_tag": "AST-LAP-000600",
+    "asset_type": "Monitor",
+    "assigned_employee_id": "",
+    "purchase_date": "2026-01-01",
+    "serial_number": "SERIAL-000600",
+    "status": "available"
+  }
+]

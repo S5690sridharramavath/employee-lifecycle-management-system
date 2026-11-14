@@ -1,0 +1,54 @@
+{
+  "access_requests.csv": {
+    "sha256": "5523e7c0d4120f232c9b42feda7caf946240b826ad439fa9ba068864a285f672",
+    "bytes": 1205
+  },
+  "approvals.csv": {
+    "sha256": "ee0d9e5e91126558abfd03cc11fd9aea8290610c687fb636fdc8d55603cd9d20",
+    "bytes": 1402
+  },
+  "assets.csv": {
+    "sha256": "efc7f1505905ade847ae934a24c372b4b95156964fbbcfc298cdd9baf8d0de35",
+    "bytes": 2602
+  },
+  "audit_events.csv": {
+    "sha256": "2b85a1cf879dfc1fbff185f3a442c80b4c32981411a7657c1b77678924cd794e",
+    "bytes": 2737
+  },
+  "departments.csv": {
+    "sha256": "1562b0c6e7f5a576426f3917da1a360a2f7a555022d71d1731c2080fc47a5319",
+    "bytes": 260
+  },
+  "employees.csv": {
+    "sha256": "f068d1800435f5e510a0f88c536fdba5597a00bad7241138ceb64346971cc7f0",
+    "bytes": 3046
+  },
+  "ground_truth.csv": {
+    "sha256": "ffd0c4a8acd539fcb72f5da68b4a6cd8a6cf3baa9112b9a4df197f84433ec752",
+    "bytes": 659
+  },
+  "managers.csv": {
+    "sha256": "d81cb25eae6c1e6dcad9b270031c412bf61fa2bf8f6a6c80a809c825edfe7af6",
+    "bytes": 145
+  },
+  "offboarding_cases.csv": {
+    "sha256": "4fa20ddcb528d2a87de49402a876de9540869fa51ab53bba0324ed3d7d0369ac",
+    "bytes": 137
+  },
+  "onboarding_cases.csv": {
+    "sha256": "9569a535dad86fcb3308dcc7145c29e1f850f4f7ae4eafcea1fddfe432fe0bf9",
+    "bytes": 1606
+  },
+  "roles.csv": {
+    "sha256": "0a5789094739d35dfbf41a34746cd761df7bef7a82a2ec696eb9672c85ebb5a0",
+    "bytes": 600
+  },
+  "task_instances.csv": {
+    "sha256": "05eab2572827c432f61b66b0d302034c8dfeaf65773deee0ccd1231879372d4d",
+    "bytes": 24594
+  },
+  "task_templates.csv": {
+    "sha256": "9643cab7825a9df762e8d09c61c6997b544a56d947c664acb024637c6a5a3fef",
+    "bytes": 376
+  }
+}
